@@ -11,18 +11,18 @@
     <title>Essence Greenery</title>
 </head>
 <body>
-        <!------------------------ ------------------------------HEADER AND NAVIGATION--------------------------------------- -->
-    <header>
+    >
+    <header class="sticky-top">
       
-                   
-                        <!-- As a link -->
+              
                         <nav class="navbar navbar-light bg-light bg-blue">
+                        <div class="d-none d-md-block"> 
                         <a class="navbar-brand" href="index.html"><h1 id="main-logo">Essence Greenery</h1></a>
+                        </div>
                             <small>...vanguard of the Food-Climate system towards green development</small>
-                        </nav>
 
-        
-                                                        <!-- ----------------As a link ------------------------------------->
+                        <button class="btn btn-danger btn-lg" data-toggle="modal" data-target="#signupModal">JOIN US!</button>
+                        </nav>                                            
            
             <nav class="container-fluid navbar navbar-expand-lg navbar-light bg-dark center" id="navwrapper">
                     <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -55,10 +55,9 @@
               </div>
             </nav>            
     </header>
-<!-- ------------------------ ------------------------------HOME-PAGE--HERO-IMAGE-------------------------------------------------- -->
         <div class="container-fluid" id="fieldimage-outer">
             <div class="row no-gutters" id="fieldimage"> 
-                <div class="col">
+                <div class="d-none d-md-block">
                    <div class="overlay-tex">
                     <h3>food-climate <br> <br>system:</h3>
                     <br>
@@ -72,7 +71,6 @@
             </div>  
                     
         </div>
-<!-- ------------------------ ------------------------------HOME-PAGE---ARTICLE------------------------------------------------ -->
     <div class="container-fluid sectional-container" id="intro-food-climate">
       <article class="food-climate">
         <div class="row no-gutters">
@@ -109,84 +107,72 @@
     
                      </div>
                 </div>
-            </div>
-            
-            <div class="col-md-4 iframe-container d-iframe">
-                        <iframe src="https://www.youtube.com/embed/v24wT16OU2w" frameborder="0" allow="accelerometer; autoplay; 
-                                encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </div>         
+            <div class="col-md-4 iframe-container d-iframe ">
+                        <iframe class=" my-new-class" src="https://www.youtube.com/embed/v24wT16OU2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                         </iframe>
             </div>
         </div>
      </article>
- </div>
-     
-       <!------------------------ ------------------------------HOME-PAGE---MANDATE----------------------------------------------------- -->
+ </div>   
     <div class="container sdg-mandate-cover">
         <div class="row no-gutters">
-                <div class="col">
+                <div class="col-12">
                      <h3>Our Sustainable mandates</h3> 
                 </div> 
-               <div class="row no-gutters">
-                    <div class="col col-xs-6 col-lg-4 sgd">
+                    <div class="col-12 col-md-6 col-lg-4 sgd">
                         <div class="card">
                             <a href="https://en.wikipedia.org/wiki/Sustainable_Development_Goals" target="_blank">
-                                <img src="https://i.pinimg.com/236x/0e/ea/11/0eea11d090f2dd24e5920d02eed1a92c.jpg" alt="The 1st SDG: No poverty">
+                                <img class="img-fluid" src="https://i.pinimg.com/236x/0e/ea/11/0eea11d090f2dd24e5920d02eed1a92c.jpg" alt="The 1st SDG: No poverty">
                                 <h4> The 1st SDG: No poverty</h4>
                                 
                             </a>
                          </div>
                    </div>
-
-                     <div class="col col-xs-6 col-lg-4 sgd">
+                     <div class="col-12 col-md-6 col-lg-4 sgd">
                         <div class="card">
-                            <a href="https://unstats.un.org/sdgs/report/2016/goal-02/#:~:text=Goal%202%3A%20End%20hunger%2C%20achieve%20food%20security%20and%20improved%20nutrition,
-                                    to%20lead%20a%20healthy%20life." target="_blank">
-                                <img src="https://sustainabledevelopment.un.org/content/dist2/images/E_SDG%20goals_icons-individual-rgb-02.png" alt="The 2nd SDG: Zero hunger">
-                                <h4> The 2nd SDG: Zero hunger</h4>
-                                
+                            <a href="https://unstats.un.org/sdgs/report/2016/goal-02/#:~:text=Goal%202%3A%20End%20hunger%2C%20achieve%20food%20security%20and%20improved%20nutrition,to%20lead%20a%20healthy%20life." target="_blank">
+                                <img class="img-fluid" src="https://sustainabledevelopment.un.org/content/dist2/images/E_SDG%20goals_icons-individual-rgb-02.png" alt="The 2nd SDG: Zero hunger">
+                                <h4> The 2nd SDG: Zero hunger</h4>       
                             </a>
                         </div>
                      </div>
-
-                    <div class="col col-xs-6 col-lg-4 sgd">
+                    <div class="col-12 col-md-6 col-lg-4 sgd">
                         <div class="card">
                             <a href="https://en.wikipedia.org/wiki/Sustainable_Development_Goals" target="_blank">
-                                <img src="https://www.globalgoals.org/images/fetch/c_fill,f_auto,q_auto,w_396/https://images.prismic.io/globalgoals/51a713468cc57e61869b69d4f9c4e3d867b6b760_3-goal-resources.png?auto=compress,format" alt="The 3rd SDG: Godd health">
+                                <img class="img-fluid" src="https://www.globalgoals.org/images/fetch/c_fill,f_auto,q_auto,w_396/https://images.prismic.io/globalgoals/51a713468cc57e61869b69d4f9c4e3d867b6b760_3-goal-resources.png?auto=compress,format" alt="The 3rd SDG: Godd health">
                                 <h4> The 3rd SDG: Good health</h4>             
                             </a>
                         </div>
                     </div>
 
-                    <div class="col col-xs-6 col-lg-4 sgd">
+                    <div class="col-12 col-md-6 col-lg-4 sgd">
                         <div class="card">
                             <a href="https://www.undp.org/content/undp/en/home/sustainable-development-goals/goal-8-decent-work-and-economic-growth/targets.html" target="_blank">
-                                <img src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-08.png" alt="The 8th SDG: Decent work and economic growth">
+                                <img class="img-fluid" src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-08.png" alt="The 8th SDG: Decent work and economic growth">
                                 <h4> The 8th SDG: Decent work and economic growth</h4>             
                             </a>
                         </div>
                    </div>
-
-                  <div class="col col-xs-6 col-lg-4 sgd">
+                  <div class="col-12 col-md-6 col-lg-4 sgd">
                         <div class="card">
                             <a href="https://www.un.org/sustainabledevelopment/climate-change/" target="_blank">
-                                <img src="https://i.ytimg.com/vi/xivQ8zjqaRo/maxresdefault.jpg" alt="The 13th SDG: Climate Action">
+                                <img class="img-fluid" src="https://i.ytimg.com/vi/xivQ8zjqaRo/maxresdefault.jpg" alt="The 13th SDG: Climate Action">
                                 <h4> The 13th SDG: Climate Action</h4>      
                             </a>
                         </div>
                 </div>
-
-                <div class="col col-xs-6 col-lg-4 sgd">
+                <div class="col-12 col-md-6 col-lg-4 sgd">
                         <div class="card">
                             <a href="https://sustainabledevelopment.un.org/sdg17#:~:text=Goal%2017%20seeks%20to%20strengthen,be%20done%20to%20accelerate%20progress." target="_blank">
-                                <img src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-17.png" alt="The 17th SDG: Partnership">
+                                <img class="img-fluid" src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-17.png" alt="The 17th SDG: Partnership">
                                 <h4> The 17th SDG: Partnership</h4>      
                             </a>
                         </div>
                 </div>
-            </div>
+        
         </div> 
  </div>
-      <!------------------------ ------------------------------ABOUT-PAGE-------------------------------------------------------------- -->
 <div class="container-fluid sectional-container">
         <div class="row no-gutters">
             <div class="col-md-8" id="about-container">
@@ -222,16 +208,10 @@
                         </div>
                      </div>
                 </div>
-            </div>
-
-            <div class="col-md-4" id="visionimage">
-              
+            <div class="col-md-4" id="visionimage"> 
             </div>
        </div>
 </div>
-
-
-<!------------------------ ------------------------------remove-------------------------------------------------------- -->
 <div class="container-fluid sectional-container">
     <section class="wrapper">
         <div class="row no-gutters">
@@ -256,7 +236,7 @@
           </div>
             <div class="col-md-8 strategy-container">
                     <div class="row no-gutters bg-color-name-title">
-                    <div class="col 12 content-text">
+                    <div class="col-12 12 content-text">
                              <h3>Our Strategies </h3>
                           <ul>
                                 <li><strong>Business oriented:</strong> We see farming as wealth and not means of survival</li>
@@ -276,8 +256,7 @@
             </div>             
        </div> 
   </section>
-<div>
-     <!---  --------------------- ------------------------------PARTNERSHIP-PAGE-------------------------------------------------------- -->
+</div>
 <div class="container-fluid sectional-container">
         <div class="row no-gutters">
           <div class="col-md-8 strategy-container">
@@ -301,7 +280,7 @@
                 </div>
 
                 <div class="row no-gutters">
-                       <div class="col content-text">
+                       <div class="col-12 content-text">
                                 <h3>Why Partner/ Invest With Us?</h3>
                       </div>
                 </div>
@@ -313,13 +292,13 @@
                                     a sustainable future for us. Concurrently, offsetting your carbon emission and very importantly creating wealth for yourself exponentially. 
                             </p>      
                     </div>
+                </div>
         </div>
             <div class="col-md-4 partnershipimages">
                             
             </div>
         </div>     
-  </div>     
-      
+  </div>  
                  <div class="row no-gutters">
                      <div class="col-6 offset-3 content-text">
                             <h3>How?</h3>
@@ -335,8 +314,6 @@
                         </ul>
                     </div>
               </div>
-  
-<!-- --------------------------- ------------------------------GALLERY-PAGE------------------------------------------------------------- -->
 <div class="container-fluid"> 
     <section class="sectional-container">
         <div class="row no-gutters">
@@ -344,7 +321,7 @@
                          <h2 id="gallery">Gallery</h2>
                      </div>
             <div class="row" id="galleryimgage">
-                <div class="col-12">
+                <div class="d-none d-md-block">
                     <img src="assets/images/imagewatermelon.jpg" alt="Watermelon">
                     <img src="assets/images/imagecor2.jpg" alt="Watermelon">
                     <img src="assets/images/imagecorn1.jpg" alt="Corn">
@@ -359,12 +336,11 @@
         </div>
     </section>
 </div>
-      <!------------------------ ------------------------------SUPPORT-PAGE------------------------------------------------------------ -->
-     
+   
     <div class="container" id="imagesupport-outer">
             <div class="row no-gutters">
                 <div class="col-12" id="imagesupport">
-                   <div class="covertext">
+                   <div class="covertext d-none d-md-block">
                         <h2><em>"if we can<br>
                         <br>
                         <br>
@@ -380,9 +356,7 @@
                 </div>
             </div>
     </div>
-
-
- <div class="container-fluid sectional-container sectional-container--orangecolor">
+<div class="container-fluid sectional-container sectional-container--orangecolor">
         <div class="row no-gutters">
                 <div class="col-md-8 support-container">
                     <div class="row no-gutters">
@@ -412,17 +386,14 @@
                             </div>
                          </div>
                     </div>
-                </div>
              <div class="col-md-4  iframe-container d-iframe">
-                    <iframe src="https://www.youtube.com/embed/OwIuOVJAn-0" frameborder="0" allow="accelerometer; 
+                    <iframe class=" my-new-class" src="https://www.youtube.com/embed/OwIuOVJAn-0" frameborder="0" allow="accelerometer; 
                                     autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                      </iframe>
             </div>
         </div>
-</div>
-   
-     <!--  --------------------------------------------------------FOOTER-PAGE------------------------------------------------------------- -->
-    <footer class="container-fluid">
+</div>   
+<footer class="container-fluid">
        <div id="footer-contents" class="row">
 
             <div class="col-sm-4">
@@ -435,7 +406,7 @@
                 </ul>
             </div>
 
- 	<div class="col-sm-4" class="contacts">
+ 	<div class="col-sm-4 contacts">
                 <h5 class="uppercase footer-header">contacts:</h5>
                 <p class="inline-block contacts">
                    231 Bodija Road
@@ -478,6 +449,38 @@
           </div>                    
       </div>
     </footer>
+        <div class="modal" tabindex="-1" role="dialog" id="signupModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+               <form>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                </div>
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="password" class="form-control" id="password" placeholder="Password">
+                </div>
+                <div class="form-group">
+                    <label for="repeatpassword">Password</label>
+                    <input type="password" class="form-control" id="repeatpassword" placeholder="Repeat Password">
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+            
+            </div>
+        </div>
+        </div>
+
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
