@@ -35,7 +35,7 @@ header nav.bg-blue{
 #main-logo {
         float:left;
         font-family: 'Merriweather', serif;
-        font-size: 1.3em;
+        font-size: 280%;
         margin-left: 0px;
         margin-bottom: 0;
         padding-bottom: 0;
@@ -217,6 +217,8 @@ nav div ul.my-nav {
         overflow: hidden;
         position: relative;
         margin-top: 30px;
+        padding-right: 0px;
+         padding-left: 0px;
 }
 
 
@@ -250,9 +252,6 @@ nav div ul.my-nav {
 
 /*-------------------------------------------FOOD-CLIMATE-ARTICLE------------------------------FOOD-CLIMATE-ARTICLE-----------------------E-----------------*/
 
-#intro-food-climate {
-    height: 600px;
-}
  #about-container,
  .vision-container,
  .strategy-container
@@ -284,7 +283,9 @@ nav div ul.my-nav {
     font-family: 'Roboto Condensed', sans-serif;
     color: #05041a;
     font-style: italic;
+    padding-bottom: 20px;
 }
+
 
 
 
@@ -300,19 +301,16 @@ nav div ul.my-nav {
     height: 100%;
 }
 
- div .iframe-container .d-iframe iframe {
-    position: absolute;
-    border-radius: 10%;  
- }
-
 
 /*-------------------------------------------SDG-MANDATE------------------------------------------------------SDG-MANDATE---------------SDG-MANDATE--------*/
 .sdg-mandate-cover {
-    min-height: 600px;
     clear: both;
     background-color: #003d52;
     margin-top: 75px 0;
     position: relative;
+    padding-bottom: 25;
+     margin-bottom: 25px;
+   
 }
 
 .sdg-mandate h3 {
@@ -320,6 +318,7 @@ nav div ul.my-nav {
     color: #ffffff;
     font-family: 'Merriweather Sans', sans-serif;
     margin-top: 25px;
+    padding-top: 25px;
     margin-bottom: 25px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -332,7 +331,7 @@ nav div ul.my-nav {
     margin: 10%;
     float: left;
     overflow: hidden;
-    position: absolute;
+    
 
 }
 
@@ -353,6 +352,7 @@ div .sdg-mandate-cover .card a img {
 -ABOUT-TEXT-AND-IMAGE------*/
 .sectional-container{
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 div #about-container {
@@ -373,11 +373,11 @@ div #about-container {
 
 #about-container #contenttext-about h3  {
     text-transform: capitalize;
-    text-align: center
-    margin-top: 25px;
+    text-align: center;
+    margin-top: 15px;
     margin-bottom: 25px;
     letter-spacing: 2px;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif; 
     line-height: 25px;
     font-weight: 700;
 }
@@ -391,7 +391,8 @@ div #about-container {
     font-weight: 400;
     font-family: 'Roboto Condensed', sans-serif;
     color: #05041a;
-    font-style: italic;
+    font-style:normal;
+    padding-bottom: 15px;
 }
 
 
@@ -413,9 +414,6 @@ div #visionimag {
      padding-bottom: 75px;
  }
 
- .sectional-container{
- 
-}
 .vision-containe, .strategy-container {
     margin: 0;
     padding: 0;
@@ -430,24 +428,27 @@ div #visionimag {
     font-family: 'Merriweather Sans', sans-serif;
     line-height: 25px;
     font-weight: 700;
+    text-align: center;
 }
 
+.content-text #missioncontent-text {
+    margin-top: 100px;
+    font-weight: 400;
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
  
 .content-text h3 {
 
-    text-align: left;
+    text-align: center;
     margin-bottom: 0;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 20px;
     line-height: 25px;
     font-weight: 400;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     color: #05041a;
-    font-style: italic;
+    font-style: normal;
 }
-
-
-
  .strategy-container h3 {
     text-transform: capitalize;
     margin-top: 25px;
@@ -458,21 +459,25 @@ div #visionimag {
     line-height: 25px;
     font-weight: 700;
 }
-.content-text .strategy-li,
+
+.content-text ul li,
 .content-text p,
 .strategy-container p {
 
     text-align: center;
     margin-bottom: 0;
     padding-left: 1.5em;
-    padding-right: 1.5emx;
-    font-size: 1.3em;
+    padding-bottom: 10px;
+    padding-right: 1.5em;
+    font-size: 1.1em;
     font-weight: 300;
     font-family: 'Roboto Condensed', sans-serif;
     color: #05041a;
     font-style: italic;
 }
-
+.content-text ul li{
+    list-style-type: none;
+}
 /*-------------------------------------------PARTNERSHIP-IMAGE-----------------------------------------------------------PARTNERSHIP-IMAGE-------*/
 
 .partnershipimages {
@@ -498,6 +503,7 @@ div #visionimag {
     line-height: 0;
     column-count: 4;
     column-gap: 0px;
+    background-color: rgb(0,73,83,0.9);
 
 }
 
@@ -555,6 +561,21 @@ div #visionimag {
         top: 5%;
         right: 5%;
         
+}
+.support-parag P {
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 0;
+    padding-left: 1.5em;
+    padding-bottom: 10px;
+    padding-right: 1.5em;
+    font-size: 1.1em;
+    font-weight: 400;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: italic;
+}
+.support-parag h3 {
+    text-align: center;
 }
 
 
