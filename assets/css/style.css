@@ -287,8 +287,6 @@ nav div ul.my-nav {
 }
 
 
-
-
 /*--------------------------------------------IFRAME--FOOD-CLIMATE-----------------------------IFRAME--FOOD-CLIMATE-ARTICLE-----------------------E-----------------*/
 .iframe-container {
     
@@ -331,6 +329,7 @@ nav div ul.my-nav {
     margin: 10%;
     float: left;
     overflow: hidden;
+    margin-left: 2%;
     
 
 }
