@@ -9,6 +9,7 @@ The website is to advocate and show how the food systems could be used to make f
 
 # **Wireframe**
 MY [Wireframe](https://drive.google.com/file/d/109Htgt3h8M1XQiCf0_tgwOIhhuK5S4-A/view?usp=sharing)
+My mobile design [Mobile Wireframe](https://drive.google.com/file/d/1LVLnYvnEeR6_82n02HsbpGLrAm-9g31d/view?usp=sharing)
 
 ### User stories
 People may want to know the role of the food system to mitigate climate change. The reason why we should revolutionise farming in Africa, also, foreign research institutes that may want to conduct research or test new seeds the African soil and the farming system in Nigeria.
