@@ -8,7 +8,7 @@ In the future, the sites hope to have a platform that will enable any person to 
 The website is to advocate and show how the food systems could be used to make food available to people without harming the environment. The website is to attract investors especially those in abroad, educational institutions who are interested in the food system and climate change to partner with us so that we can work together to fight food insecurity and climate change. The user also be able to see what we have started. We think, an online presence will attract our likes and those who want to invest in Africa. 
 
 # **Wireframe**
-MY [Wireframe](assets/wireframe/desktopdesign.pdf)
+MY [Wireframe](https://drive.google.com/file/d/109Htgt3h8M1XQiCf0_tgwOIhhuK5S4-A/view?usp=sharing)
 
 ### User stories
 People may want to know the role of the food system to mitigate climate change. The reason why we should revolutionise farming in Africa, also, foreign research institutes that may want to conduct research or test new seeds the African soil and the farming system in Nigeria.
