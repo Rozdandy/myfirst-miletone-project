@@ -78,6 +78,7 @@ The design is intuitive, responsive on all devices and the  elements are Interac
 * Our **Activities** feature will be include and also the online shopping links will be included. This link would connect every neighborhood in the country to the nearest grocery shops for quick accessibility of products that will be delivered within 30 minutes after complete payment.
 * The icons in the navigation would open in another page.
 * More call-to-action buttons, such as online live chat with customers.
+* the Social media such as the facebook, instagram, twitter, linkedin will open link Essence Greenery instead of developer personal account. 
 
 
 
@@ -98,6 +99,8 @@ The design is intuitive, responsive on all devices and the  elements are Interac
 * HTML validator:  [HTML validator](https://validator.w3.org/) was used to test for the validdity of my HTML code.
 * Hover.css: [Hover.css](https://ianlunn.github.io/Hover/) was used on navigation bar links and Social Media icons in the footer for hovering effects
 * Balsamiq: [Balsamiq](https://balsamiq.com/) was used to create the wireframes during the design stage of the project.
+* Used [freeformatter](https://www.freeformatter.com/html-formatter.html) for the formatting of HTML.
+
 
 ### **Colour Scheme**
 
@@ -280,13 +283,6 @@ To enable project to be seen by others, It was deployed to GitHub Pages using th
 5. A pop-up message "Your site is ready to be published at https://rozdandy.github.io/myfirst-miletone-project/." will appear under Github Pages
 6. The page will automatically be refreshed and the website would be deployed
 
-### **Forking the GitHub Repository**
-
-This means making a copy of the original repository on our GitHub account to view and possibly make changes without impacting  the original repository through the following methods:
-
-* Log in to GitHub and locate the GitHub Repository
-* At the top of the Repository just above the "Settings" Button on the menu, locate the "Fork" Button.
-* This will generate a copy of the original repository in your GitHub account.
 
 *How to clone / run this project locally*
 
@@ -310,7 +306,7 @@ This project was totally developer's concept, written by Ambrose Akpobe but also
 * Chrome Dev tools – to check for my responsiveness and errors
 * Pexels: for some pictures
 * John Hopkins library: https://clf.jhsph.edu/. I read through their literatures.
-* https://alexnexton.github.io/MS1-OneArena/facilities.html
+* https://alexnexton.github.io/MS1-OneArena/facilities.html made comparison of this work to mine in terms layout.
 
 ## **Media**
 
