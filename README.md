@@ -3,6 +3,8 @@
 
 ### **Website link:** 
 
+*my github link*: [Rozdandy](https://github.com/Rozdandy?tab=repositories)
+
 [Essence Greenery](https://rozdandy.github.io/myfirst-miletone-project/)
 Essence Greenery advocate for food production, and agricultural practices in a sustainable way using climate change as a focal point and taking its concept and mandate from the sustainable development goals. The project is mainly the developer's idea which is based on farm project in Nigeria. One of the primary objectives of building the website is to attract foreigners to partner or invest with us to tackle food insecurity and malnutrition in the future while transitioning to lower-carbon emission economies. The site is for an educational purpose though a B2B2C. In the future, the sites hope to have a platform that will enable any person to do online shopping of all major food groceries and will be delivered within 30 minutes across his/her neighborhoods” a neighborhood online food platform”.
 
@@ -286,18 +288,10 @@ To enable project to be seen by others, It was deployed to GitHub Pages using th
 6. The page will automatically be refreshed and the website would be deployed
 
 
-*How to clone / run this project locally*
-
-1. On GitHub, navigate to the main page of the repository.
-2. Under the repository name, click Clone.
-3. The Clone with HTTPs section, click to copy the clone URL for the repository. And Open Git Bash.
-4. Change the current working directory to the location where you want the cloned directory to be made.
-5. Type git clone, and then paste the URL you copied in Step 2.
-5. Click to enter your local clone would be made.
-
 # **Credits**
 
 ### Contents
+
 **References:**
 
 This project was totally developer's concept, written by Ambrose Akpobe but also with  some help from:
