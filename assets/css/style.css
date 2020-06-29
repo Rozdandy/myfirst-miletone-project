@@ -40,17 +40,18 @@ header nav.bg-blue{
 }
 
 
-nav small{
+nav small {
     color: #ffffff;
     float: left;
 
     position: absolute;
     left: 80px;
     bottom: 2px;
+    z-index: -1;
 }
 
 
-/*-------------------------------------------NEW-PAGE-HEADER-------------------*/
+/*-------------------------------------------------------------------------------NEW-PAGE-HEADER-------------------*/
 
 .newpage-header {
     margin: 0;
@@ -65,11 +66,7 @@ nav small{
 }
 
 
-/*-------------------------------------------COLOR----------------------------------COLOR-----------COLOR------------------------------------------------*/
-
-.navitems a {
-    color: #ffffff;
-}
+/*--------------------------------------------------------------------------------------COLOR----------------------*/
 
 
 .sectional-container--orangecolor{
@@ -87,7 +84,8 @@ h3, h4, h5 {
     line-height: 20px;
 }
 
-/*-------------------------------------------NAVIGATION-LINK----------------------------------NAVIGATION-LINK-----------NAVIGATION-LINK---------------*/
+/*---------------------------------------------------------------------------------NAVIGATION-LINK---------------*/
+
 
 .bg-dark {
     padding: 0px;
@@ -118,7 +116,9 @@ nav div ul.my-nav {
     text-decoration: none;
     height: 75px;
     margin: 0 5px;
+    color: #ffffff;
 }
+
 
 
 .navitems a i {
@@ -147,14 +147,14 @@ nav div ul.my-nav {
 }
 
 
-/*--------------------------------------------Hover.css*.......................................................-----------------------------...*/
+/*----------------------------------------------------------------------------------HOVER.CSS--....---------------...*/
 
 .hvr-bounce-to-bottom:before {
     background: rgba(255,36,0, 0.8);
 }
 
 
-/*-------------------------------------------BODY-HERO-IMAGE-------------------------------BODY-HERO-IMAGE---------BODY-HERO-IMAGE----------------*/
+/*-------------------------------------------------------------------HERO-IMAGE---AND----FOOD-CLIMATE-SECTION---------------*/
 
 #fieldimage {
     background: url("../images/field.jpg");
@@ -217,11 +217,15 @@ nav div ul.my-nav {
     background-color: rgb(213, 223, 228, 0.2);
 }
 
+#intro-food-climate {
+    margin-bottom: 30px;
+}
 
 .foodclimate-text-container h2  {
     text-transform: uppercase;
     margin-top: 25px;
     margin-bottom: 25px;
+    padding-bottom: 25px;
     letter-spacing: 2px;
     font-family: 'Merriweather Sans', sans-serif;
     line-height: 25px;
@@ -258,7 +262,7 @@ nav div ul.my-nav {
 }
 
 
-/*-------------------------------------------SDG-MANDATE------------------------------------------------------SDG-MANDATE---------------SDG-MANDATE--------*/
+/*----------------------------------------------------------------------------------------SDG-MANDATE------------*/
 .sdg-mandate-cover {
     clear: both;
     background-color: #003d52;
@@ -275,8 +279,9 @@ nav div ul.my-nav {
     color: #ffffff;
     font-family: 'Merriweather Sans', sans-serif;
     margin-top: 20px;
+    padding-bottom: 10px;
     padding-top: 25px;
-    margin-bottom: 15px;
+    margin-bottom: 0px;
     letter-spacing: 2px;
     text-transform: uppercase;
     line-height: 25px;
@@ -306,9 +311,9 @@ div .sdg-mandate-cover .card a img {
 
 /*-------------------------------------------ABOUT-TEXT-AND-IMAGE-----------------------------------------------------*/
 
-.sectional-container{
+.sectional-container {
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 
@@ -355,7 +360,7 @@ div .sdg-mandate-cover .card a img {
 }
 
 
-/*-------------------------------------------VISION-IMAGE-------------------------------------------------------VISION-IMAGE--------------VISION-IMAGE-------*/
+/*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
 
 div #visionimage {
      background: url("../images/visionimage.jpg");
@@ -435,10 +440,13 @@ div #visionimag {
 }
 /*-------------------------------------------PARTNERSHIP-IMAGE-----------------------------------------------------------PARTNERSHIP-IMAGE-------*/
 .whysectional-container {
-    margin-top: 0px;
-    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 35px;
 }
-
+#whypartnerwithus {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
 
 .partnershipimages {
      background: url("../images/partnershipimages.jpg");
@@ -542,7 +550,6 @@ div #visionimag {
 .support-parag h3 {
     text-align: center;
 }
-
 
 
 /*-------------------------------------------FOOTER-SECTION----------------------------------------------------FOOTER-SECTION----------------------*/

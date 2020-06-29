@@ -1,5 +1,6 @@
 # **Essence Greenery**
-
+### **website link:** 
+[Essenc Greenery](https://rozdandy.github.io/myfirst-miletone-project/)
 Essence Greenery advocate for food production, and agricultural practices in a sustainable way using climate change as a focal point and taking its concept and mandate from the sustainable development goals. The project is mainly the developer's idea which is based on farm project in Nigeria. One of the primary objectives of building the website is to attract foreigners to partner or invest with us to tackle food insecurity and malnutrition in the future while transitioning to lower-carbon emission economies. The site is for an educational purpose though a B2B2C. In the future, the sites hope to have a platform that will enable any person to do online shopping of all major food groceries and will be delivered within 30 minutes across his/her neighborhoods” a neighborhood online food platform”.
 
 # **UX**
@@ -318,7 +319,9 @@ Below are the references of those images:
 * Home page (hero image)
     https://www.pexels.com/photo/green-field-near-houses-2165688/
 * Support image: https://www.pexels.com/photo/person-holding-babys-hand-3845456/ which formed the Hero-image.
-* Other photos gotten using google image.
+* Other photos gotten using google image for partnership (
+    https://assets.entrepreneur.com/content/3x2/2000/building-a-business-partnership-that-lasts.jpg)
+    Also, the mission image (https://dairynow.ca/wp-content/uploads/2017/05/Agricultural-Drone.jpg)
 * Embedded videos were taken from YouTube.
 
 # **Acknowledgements**
