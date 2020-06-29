@@ -21,7 +21,7 @@ header nav.bg-blue{
 }
 
 
-#main-logo {
+#main-logo {                                      /*---------- GOT IDA FROM LOVE RUNNING STYLING--------------------------*/
         float:left;
         font-family: 'Merriweather', serif;
         font-size: 280%;
@@ -131,7 +131,7 @@ nav div ul.my-nav {
 
 .navitems a span {
     display: block;
-    width: 100%;
+    width: 100%;                                 /*---------- LEARNT HOW TO STYLE FROM LECTURE VIDEOS--------------------------*/
     padding-top: 5px;
     text-transform: uppercase;
     font-weight: 500;
@@ -156,10 +156,10 @@ nav div ul.my-nav {
 
 /*-------------------------------------------------------------------HERO-IMAGE---AND----FOOD-CLIMATE-SECTION---------------*/
 
-#fieldimage {
+#fieldimage {                                    /*---------- GOT IDEA FROM LOVE RUNNING STYLING THIS SECTION--------------------------*/
     background: url("../images/field.jpg");
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;                   
     background-size: cover;
     min-height: 600px;
     transition: all .5s ease-in-out;
@@ -209,7 +209,7 @@ nav div ul.my-nav {
 
  #about-container,
  .vision-container,
- .strategy-container
+ .strategy-container                          
  .support-container,
 .foodclimate-text-container {
     margin: 0;
@@ -362,9 +362,9 @@ div .sdg-mandate-cover .card a img {
 
 /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
 
-div #visionimage {
+div #visionimage {                                               /*---------- GOT IDEA FROM RESUME CV VIDEO-------------------------*/
      background: url("../images/visionimage.jpg");
-    background-position: center;
+    background-position: center;                      
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -448,7 +448,7 @@ div #visionimag {
     margin-bottom: 0px;
 }
 
-.partnershipimages {
+.partnershipimages {                                              /*---------- GOT IDEA FROM LOVE RUNNING STYLING--------------------------*/
      background: url("../images/partnershipimages.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -488,10 +488,10 @@ div #visionimag {
 }
 
 /*-------------------------------------------SUPPORT-SECTION-----------------------------------------------------SUPPORT-SECTION----------------------*/
-#imagesupport {
+#imagesupport {                                                  /*---------- GOT IDEA FROM LOVE RUNNING STYLING--------------------------*/
     background: url("../images/imagesupport.jpg");
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;                                       
     background-size: cover;
     min-height: 600px;
     transition: all .5s ease-in-out;
@@ -579,7 +579,7 @@ div ul.social-media li a {
     text-align: center;
 }
 
-
+                                            /*---------- GOT IDEA FROM RESUME CV STYLING--------------------------*/
 div ul.social-media li a i {
     width: 2.0em;
     height: 2.0em;

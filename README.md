@@ -1,6 +1,7 @@
 # **Essence Greenery**
 ### **website link:** 
-[Essenc Greenery](https://rozdandy.github.io/myfirst-miletone-project/)
+
+[Essence Greenery](https://rozdandy.github.io/myfirst-miletone-project/)
 Essence Greenery advocate for food production, and agricultural practices in a sustainable way using climate change as a focal point and taking its concept and mandate from the sustainable development goals. The project is mainly the developer's idea which is based on farm project in Nigeria. One of the primary objectives of building the website is to attract foreigners to partner or invest with us to tackle food insecurity and malnutrition in the future while transitioning to lower-carbon emission economies. The site is for an educational purpose though a B2B2C. In the future, the sites hope to have a platform that will enable any person to do online shopping of all major food groceries and will be delivered within 30 minutes across his/her neighborhoods” a neighborhood online food platform”.
 
 # **UX**
@@ -9,8 +10,8 @@ The website is to advocate and show how the food systems could be used to make f
 
 # **Wireframe**
 
-The prototype of this website was firstly drafted on piece of papers to have a rough idea of what I was building. I later transferred the knowledge to build my mockup using Balsamiq App. I Initially made the first wireframe for large device which I sent to my Mentor. After discussion with my mentor he suggested I build a all-in-one page website, that is, all the five pages would be in one page so that users do not have to keep moving from one page to another that slow loading time and also for easy debugging when there is a bug.
-After some days when I wanted to modify the wireframe and also, to design for mobile device, the Balsamiq App had stopped working. Every attempt to get it work by using the license code given by Code Institute were effortless. To avoid slippage of my project, I was advised to submit without the mobile design.
+The prototype of this website was firstly drafted on piece of papers to have a rough idea of what I was building.The knowledge wass later transferred to build my mockup using Balsamiq App. Wireframe for large device was first created and sent to my mentor. After review and discussion with my mentor he suggested I build a all-in-one page website, that is, all the five pages would be in one page so that users do not have to keep moving from one page to another that slow loading time and also for easy debugging when there is a bug.
+After some days to modify the wireframe for moble device, the Balsamiq App had stopped working. Every attempt to get it work by using the license code given by Code Institute were effortless. To avoid slippage of of time, I was advised to submit without the mobile design.
 Therefore, I attached the previous wireframe that I sent to my mentor which does not contain the final modification that I made. Also, attached was the mapping out of each section for the mobile design using MS. Word. This serves as a guide when I was creating the sites.
 Lastly, I also attached the screenshot of the Balsamiq App that stopped working.
 
@@ -31,8 +32,7 @@ Users may want to know the role of the food system to mitigate climate change. T
 * A potential client may want to know our core function and our strength.
 * They may want to see what we have done and our future aspirations.
 * They may want to know how to contact the developer.
-* Know where and how to partner them.
-* Why they should partner them.
+* Know why and how to partner with us.
 * They may want to see some of photos as proof of what they have started and done.
 * Donors that want to support may want to know why they should give.
 
@@ -126,11 +126,11 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
     2. On the navigation, they can click the ABOUT link or icon.
     3. The section will open swiftly.
 
-* Potential client may want to know the core strength of organization.
+*  A potential client may want to know our core function and our strength.
 	1. At the homepage.
     2. A user just scrolls down to the footer. It is right there.
 
-* They may want to see what host has done and their future aspiration.
+* They may want to know how to contact the organisation.
 	1. At the homepage.
     2. A user at the home page will see the Navigation bar.
     3. On the navigation they can click the GALLERY link or icon.
@@ -253,7 +253,7 @@ The site website works in all screens perfectly.
 
 **Bugs**
 
- Observed some issues at the console when using chrome google Dev tools. I found about 7 of them, those red flags came from browser and not ncessary from my website.
+ Observed some issues at the console when using chrome google Dev tools. I found about 7 of them, those red flags came from chrome browser and not necessary from my website.
  Also, some other known bugs were white spaces created at the top navigation bar when the device was set to mobile design. I was able to fix it.
 
 # **Deployment**
@@ -261,11 +261,11 @@ The site website works in all screens perfectly.
 The project was created on GitHub and used GitPod's integrated development environment to write the codes.
 To enable project to be seen by others, It was deployed to GitHub Pages using the following processes:
 
-1. Firstly, I created a repository inside of my GitHub account using the template given by the Code Institute.
-2. Secondly, I launched the page i.e my work environment on Gitpod from the repository namely: **myfirst-miletone-project** using Gitpod's Chrome extension that I have already installed in my system.
+1. Firstly, a repository was created inside of my GitHub account using the template given by the Code Institute.
+2. Secondly, the page was launched  my work environment on Gitpod from the repository namely: **myfirst-miletone-project** using Gitpod's Chrome extension that I have already installed in my system.
 3. Intermittently, developer pushed all relevant changes to the repository (**myfirst-miletone-project**), from Gitpod regularly on daily bases.
 4. When the project was completed, it owas opened in the 'Settings' in the project repository in GitHub.
-5. Scroll down the Settings page till "GitHub Pages" Section was located.
+5. Scroll down the Settings page till one sees the "GitHub Pages" Section location.
 6. Under "Source", click the dropdown called "None" and select "Master Branch"
 7. The page automatically refreshed.
 8. This process deployed the project on GitHub Pages, that enables to share the live website with others.
@@ -277,7 +277,7 @@ To enable project to be seen by others, It was deployed to GitHub Pages using th
 2. choose the title repository of this project:**myfirst-miletone-project**
 3. In the menu click on settings and scroll down to the GitHub Pages section.
 4. From the "Source" dropdown menu, they will need to choose "Master Branch" and click "Save"
-5. A pop-up message "Your site is ready to be published at https://username.github.io/Bootstrap/" will appear under Github Pages
+5. A pop-up message "Your site is ready to be published at https://rozdandy.github.io/myfirst-miletone-project/." will appear under Github Pages
 6. The page will automatically be refreshed and the website would be deployed
 
 ### **Forking the GitHub Repository**
