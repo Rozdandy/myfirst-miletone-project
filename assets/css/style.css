@@ -181,7 +181,7 @@ nav div ul.my-nav {
 
 #fieldimage-outer #fieldimage .overlay-tex {
         font-size:130%;
-        font-display:"Roboto", sans-serif;
+        font-family:"Roboto", sans-serif;
         text-transform:uppercase;
         letter-spacing:3px;
         text-align: center;
@@ -262,13 +262,17 @@ nav div ul.my-nav {
 }
 
 
+iframe{
+    border-width: 0px;
+}
+
 /*----------------------------------------------------------------------------------------SDG-MANDATE------------*/
 .sdg-mandate-cover {
     clear: both;
     background-color: #003d52;
-    margin-top: 75px 0;
+    margin-top: 75px;
     position: relative;
-    padding-bottom: 25;
+    padding-bottom: 25px;
      margin-bottom: 25px;
    
 }
@@ -510,7 +514,7 @@ div #visionimag {
 
 #imagesupport-outer #imagesupport .covertext h2 {
         font-size:200%;
-        font-display:"Roboto", sans-serif;
+        font-family:"Roboto", sans-serif;
         text-transform:uppercase;
         letter-spacing:4px;
         text-align: center;
@@ -617,3 +621,4 @@ footer .contacts {
     text-align: center;
     
 }
+

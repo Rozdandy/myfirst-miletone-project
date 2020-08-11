@@ -266,26 +266,28 @@ The site website works in all screens perfectly.
 # **Deployment**
 
 The project was created on GitHub and used GitPod's integrated development environment to write the codes.
-To enable project to be seen by others, It was deployed to GitHub Pages using the following processes:
+To enable project to be seen, It was deployed to GitHub Pages using the following processes:
 
 1. Firstly, a repository was created inside of my GitHub account using the template given by the Code Institute.
 2. Secondly, the page was launched  my work environment on Gitpod from the repository namely: **myfirst-miletone-project** using Gitpod's Chrome extension that I have already installed in my system.
 3. Intermittently, developer pushed all relevant changes to the repository (**myfirst-miletone-project**), from Gitpod regularly on daily bases.
-4. When the project was completed, it owas opened in the 'Settings' in the project repository in GitHub.
+4. When the project was completed, it was opened in the 'Settings' in the project repository in GitHub.
 5. Scroll down the Settings page till one sees the "GitHub Pages" Section location.
 6. Under "Source", click the dropdown called "None" and select "Master Branch"
 7. The page automatically refreshed.
 8. This process deployed the project on GitHub Pages, that enables to share the live website with others.
 
 
-**For other users, they need to:**
-
-1. Log into GitHub.
-2. choose the title repository of this project:**myfirst-miletone-project**
-3. In the menu click on settings and scroll down to the GitHub Pages section.
-4. From the "Source" dropdown menu, they will need to choose "Master Branch" and click "Save"
-5. A pop-up message "Your site is ready to be published at https://rozdandy.github.io/myfirst-miletone-project/." will appear under Github Pages
-6. The page will automatically be refreshed and the website would be deployed
+**How to clone / run this project locally, for other users**
+1.	On GitHub, go to my Github page.
+2.	Go to the repositories by clicking on the dropdown light-green button located at the far-right top.
+3.	Then choose “YOUR REPOSITORIES” from the dropdown’s.
+4.	At the repositories page, click on the title of the project “myfirst-miletone-project”
+5.	Under the repository name, click Clone or download.
+6.	In the Clone with HTTPs section, click to copy the clone URL for the repository.
+7.	Open Githpod workspace, that is Git Bash.
+8.	Using the command line, type git clone, and then paste the URL you copied in Step 6.
+9.	Press Enter. Your local clone will be created.
 
 
 # **Credits**
