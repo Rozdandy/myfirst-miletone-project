@@ -70,6 +70,8 @@ header{
 
 
 
+
+
                                                /*------------FOR-FOOTER----supportSection--------------------------COLOR----------------------*/
 
 h3, h4, h5 {
@@ -146,7 +148,7 @@ nav div ul.my-nav {
 
 .buttonIcon {
     width: 150px;
-    margin-right: 3%;
+    margin-right: 10%;
 }
 
 
@@ -474,18 +476,7 @@ DUMMYDL {
 }
 
 
-.partnershipimages {                                              /*---------- GOT IDEA FROM LOVE RUNNING STYLING--------------------------*/
-     background: url("../images/partnershipimage.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: auto;
-    overflow: hidden;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
+
 
 
 
