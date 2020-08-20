@@ -61,9 +61,14 @@ header{
 
                                                   /*------------FOR-FOOTER----supportSection--------------------------COLOR----------------------*/
 
-DUMMYDL {
 
+.sectional-container--orangecolor{
+    background-color: rgba(255,36,0, 0.9);
+    color: #ffffff;
+    margin-top: 75px;
 }
+
+
 
                                                /*------------FOR-FOOTER----supportSection--------------------------COLOR----------------------*/
 
