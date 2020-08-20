@@ -138,9 +138,12 @@ nav div ul.my-nav {
     text-align: center;
 }
 
-.buttonIcon {     /*-----------HERE STRST DUMMBY-----...*/
-   
+
+.buttonIcon {
+    width: 150px;
+    margin-right: 3%;
 }
+
 
 
 /*----------------------------------navbar------------------------------------------------HOVER.CSS--....---------------...*/
