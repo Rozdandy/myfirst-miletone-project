@@ -436,9 +436,6 @@ DUMMYDL {
 }
 
                              
-DUMMYDL {
-
-}
 
 
 
@@ -446,10 +443,9 @@ DUMMYDL {
 
 
                                                 /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-.content-text .howCon, {
+
     
-}
-                                               /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
+                                           /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
 DUMMYDL {
 
 }
@@ -479,6 +475,24 @@ DUMMYDL {
     font-weight: 700;
 }
 
+
+
+.content-text .howCon,
+.content-text .vision,
+.content-text .mission {
+
+    margin-bottom: 0;
+    padding-left: 1.5rem;
+     text-align: center;
+    padding-bottom: 0.8rem;
+    padding-right: 1.5em;
+    font-size: 1.1rem;
+    font-style: italic;
+    font-weight: 400;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+
 .WhyPartner-container .content-text p {
     text-align: center;
     font-size: 1.1rem;
@@ -499,11 +513,22 @@ DUMMYDL {
 
 
                                                 /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-.partnershipimages {  
-    
+.partnershipimages {                                              /*---------- GOT IDEA FROM LOVE RUNNING STYLING--------------------------*/
+     background: url("../images/partnershipimage.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
-                                               /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-DUMMYDL {
+
+
+                                             /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
+
 
 
 /*-------------------------------------------GALLERY-IMAGE-------------------------------------------------------GALLERY-IMAGE-------------------*/
