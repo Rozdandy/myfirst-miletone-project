@@ -148,7 +148,7 @@ nav div ul.my-nav {
 
 .buttonIcon {
     width: 150px;
-    margin-right: 10%;
+    margin-right: 3%;
 }
 
 
@@ -158,15 +158,18 @@ nav div ul.my-nav {
 .hvr-bounce-to-bottom:before {
     background: rgba(255,36,0, 0.8);
 }
-
-
-                                                               /*---------carousel-----------------------------------------------------------HERO-IMAGE---AND----FOOD-CLIMATE-SECTION---------------*/
+                    /*---------carousel-----------------------------------------------------------HERO-IMAGE---AND----FOOD-CLIMATE-SECTION---------------*/
 
 
 
-DUMMYDL {
+#carouslzz {
+        overflow: hidden;
+        margin-top: 120px;
+        padding-right: 0px;
+         padding-left: 0px;
 
 }
+
 
                                                                 /*-----------carousel--------------------------COLOR----------------------*/
 
@@ -413,11 +416,26 @@ DUMMYDL {
     color: #05041a;
     font-style: normal;
 }
-                                                 /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
+                                               
 .my-list p.heading {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #05041a;
+}
+
+.my-list p.heading span.content {
+    display: inline;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 1.3rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #05041a;
 
 }
-                                               /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
+
+                             
 DUMMYDL {
 
 }
