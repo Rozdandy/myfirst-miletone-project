@@ -147,8 +147,9 @@ nav div ul.my-nav {
 
 
 .buttonIcon {
-    width: 150px;
+    width: 200px;
     margin-right: 3%;
+    padding: 2px;
 }
 
 
@@ -444,16 +445,6 @@ div #visionimag {
 
 
 
-                                                /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-
-    
-                                           /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-DUMMYDL {
-
-}
-
-
-
 .content-text ul li{
     list-style-type: none;
 }
@@ -479,7 +470,7 @@ DUMMYDL {
 
 
 
-.content-text .howCon,
+.content-text p.howCon,
 .content-text .vision,
 .content-text .mission {
 
@@ -490,6 +481,7 @@ DUMMYDL {
     padding-right: 1.5em;
     font-size: 1.1rem;
     font-style: italic;
+     color: #05041a;
     font-weight: 400;
     font-family: 'Roboto Condensed', sans-serif;
     
@@ -510,7 +502,9 @@ DUMMYDL {
 }
 
 
-
+div .col.content-text {
+     background-color: #d5dfe433;
+}
 
 
 
@@ -614,7 +608,7 @@ footer {
     background-color:#5a172a;
     color: #777777;
     min-height: 120px;
-    margin: 0;
+    margin-top: 30px;
 }
 footer .our-strenght {
     list-style: none;

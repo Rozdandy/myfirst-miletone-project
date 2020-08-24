@@ -34,7 +34,7 @@
                      <a class="nav-link hvr-bounce-to-bottom" href="#support"><i class="fa fa-hand-holding-heart d-none d-md-block" aria-hidden="true"></i><span>Support</span></a>  
                   </li>
                </ul>
-               <button class="btn btn-danger btn-lg buttonIcon" data-toggle="modal" data-target="#signupModal"> JOIN US!</button>
+               <button class="btn btn-danger btn-lg buttonIcon" data-toggle="modal" data-target="#signupModal">CONTACT US!</button>
             </div>
          </nav>
       </header>
@@ -262,7 +262,7 @@
             </div>
          </div>
       </div>
-      <section class="container-fluid sectional container">
+      <section class="container-fluid sectional-container">
          <div class="row no-gutters">
             <div class="col content-text">
                <h3 id="howTitle">How?</h3>
@@ -373,7 +373,7 @@
             </div>
          </div>
       </div>
-      <footer class="container-fluid">
+      <footer class="container-fluid footerContainer">
          <div id="footer-contents" class="row">
             <div class="col-sm-4">
                <h5 class="uppercase footer-header">Our Strenght:</h5>
@@ -429,26 +429,33 @@
          <div class="modal-dialog" role="document">
             <div class="modal-content">
                <div class="modal-header">
-                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                  <span aria-hidden="true">&times;</span>
-                  </button>
+                  <h4> Contact Details</h4>
                </div>
                <div class="modal-body">
-                  <form>
+                  <form>   
                      <div class="form-group">
-                        <label for="exampleInputEmail1">Email address</label>
+                        <label for="name">Name:</label>
+                        <input type="text" class="form-control" id="name" placeholder="Enter your full name" required>
+                     </div>
+                     <div class="form-group">
+                        <label for="exampleInputEmail1">Email Address:</label>
                         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
                         <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                      </div>
                      <div class="form-group">
-                        <label for="password">Password</label>
+                        <label for="password">Password:</label>
                         <input type="password" class="form-control" id="password" placeholder="Password" required>
                      </div>
                      <div class="form-group">
-                        <label for="repeatpassword">Password</label>
+                        <label for="repeatpassword">Password:</label>
                         <input type="password" class="form-control" id="repeatpassword" placeholder="Repeat Password" required>
                      </div>
+                     <div class="form-group">
+                        <label for="phoneNumber">Phone Number:</label>
+                        <input type="number" class="form-control" id="phoneNumber" placeholder="Area Code and Number" required>
+                     </div>
                      <button type="submit" class="btn btn-primary">Submit</button>
+                     <button type="reset" class="btn btn-primary">Reset</button>
                   </form>
                </div>
             </div>
