@@ -20,10 +20,10 @@ Therefore, I attached the previous wireframe that I sent to my mentor which does
 Lastly, I also attached the screenshot of the Balsamiq App that stopped working.
 
 **Desktop View**
- * [Wireframe](https://drive.google.com/file/d/109Htgt3h8M1XQiCf0_tgwOIhhuK5S4-A/view?usp=sharing)
+ * [Wireframe]
 
 **Mobile Design** 
- * [Mobile Wireframe](https://drive.google.com/file/d/13_j7V6UTAUVDkv9IHxzCqgNjcC3tPay9/view?usp=sharing)
+ * [Mobile Wireframe]
 
 ### User stories
 
@@ -41,7 +41,7 @@ Users may want to know the role of the food system to mitigate climate change. T
 * Donors that want to support may want to know why they should give.
 
 
-**From perspectiev of ownership:**
+**From perspective of ownership:**
 
 The owner of the website may want potential collaborators to contact them through email, address, or phone number for more formal dialogue.
 
@@ -53,28 +53,79 @@ The owner of the website may want potential collaborators to contact them throug
 * A link to all social media platforms of Essence Greenery.
 * The site location, contact email address and phone number.
 
+
+
+
 # **Features:**
 
-*The present features include: Header and Footer*
+The site has the following features:
 
-## **The header:**
+## **1. The header:**
 
 *The header has the following features*
-
-1. The company logo **ESSENCE GREENERY**: It brings users back to the home but also the main page.
-2. THE **JOIN US** red button: just at the right top of the page, for potential partners and donors to register and join us.
+ 
+1. The company logo **EG**
+2. The **CONTACT US** red button
 3. The navigation bar: It housed all the links and icons of the site. It has the following:
-    * *Home link and icon*: this the first and main page of the site that links to other sections of the page. The page educates on the existence of climate change and the action of the international community such as COP 21 to acknowledge it.
-    * *About link and icon*: This section gives a brief overview of what the organization stands for, its mission, its visions and strategies to achieve its visions.
-    * *Why partner with us*: link and icon:
-    * *Gallery link and icon*: This feature shows some of the previous works on the farm and part of our harvests.
-    * *Support link and icon*: it explained why fingers are not equal, why some need help than the others
-    
-## **Footer:** 
+    * *Home link and icon*
+    * *About link and icon* 
+    * *Why partner with us*
+    * *Gallery link and icon* 
+    * *Support link and icon* 
 
-This section is located at the bottom-most part of the page. It provides the user with contact information, location, and email address, Essence greenery social media platforms. It also shows our core strength
+## **2. EG**
+The company logo **EG**: It brings users back to the home but also the main page.
 
-The design is intuitive, responsive on all devices and the  elements are Interactive.
+## 3. Home Page 
+This the first and main page of the site when a user click the URL. The page educates on the existence of climate change and the action of the international community such as COP 21 in acknowledgement of climate change. Specifically it has the following **features**:
+* **A carousel or slider**: This slider displays three images of the food system, the before after effect of climate change, and the melting polar region image.
+    *   An overlay text on the carousel
+    *   A text section that inform about climate change impact
+    *   A video on climate change with respect to the food system
+    *   Sustainable mandate section that has 6 images which also act as links on sustainable goals and development.
+
+## 4. About 
+This section gives an overview of what the organization stands for. It has the following **features**:
+   * **About us**: This describe What EG is all about and what we do.
+   * Image
+   * Mission: It explains the direction and what the comapny intend to achieve.
+   * Visions: it discuss the future aspirations of the organiaztion.
+
+
+## 5. Why partner with us?
+In this section, it discuss the various reasons why it is necessary to partner with us at EG. It has the follwoing **features**:
+   * The Need For Partnership section: It mainly text information on why it is imperative to partner with us.
+   * Image of forming bond of partnership.
+   * Why Partnership?: Those who we may want to partner with and why they should partner with us.
+   * How?: It discuss how the organiaztion intend to achieve this feat.
+
+
+## 6. Gallery
+This feature shows some of the previous works at the farm and part of our harvests. It has the following **features**:
+   * **A carousel or slider**: This slider displays 5 images 
+      * Image 1: It is image of freshly harvested corn.
+      * Image 2: It is image of freshly harvested yam.
+      * Image 3: It is image of harvested dry corn.
+      * Image 4: It is image of freshly watermelon.
+      * Image 5: It is images of farm workers.
+
+
+## 7. Support 
+It explained why fingers are not equal, why some need help than the others, it appeal for the support of the less previledge. Specificall, it has the following features:
+
+   * Image with overlay text
+   * Support Our Mission: The section appeals for help and donation either materially or financially.
+   * Video: This video explains the number of people that goes daily without food and the need of urgent help.
+
+
+## **8. Footer:** 
+This section is located at the bottom-most part of the page. It provides the user with the following features 
+   * Contact information 
+   * Location 
+   * Email address 
+   * Social media links
+   * Our core strength
+
 
 
 ### **In the future:**
