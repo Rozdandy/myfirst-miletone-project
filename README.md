@@ -30,16 +30,25 @@ Lastly, I also attached the screenshot of the Balsamiq App that stopped working.
 Users may want to know the role of the food system to mitigate climate change. The reason why we should revolutionize farming in Africa, also, foreign research institutes that may want to partner with us and want to conduct research or test new seeds in the African soil and the farming system in Nigeria.
  
 **Specifically, they may want to:**
-
-* Know how climate change may impact the food system.
-* Know what strategy we have in place to achieve our vision.
-* A potential client may want to know our core function and our strength.
-* They may want to see what we have done and our future aspirations.
-* They may want to know how to contact the developer.
-* Know why and how to partner with us.
-* They may want to see some of photos as proof of what they have started and done.
-* Donors that want to support may want to know why they should give.
-
+ 
+* As a visiting user, I want to be able to know how climate change may impact the food system.
+* As a visting user, I would want to know the meaning of the logo "EG".
+* As a visting user, I would want to how know to register with EG.
+* As a visiting user, I would want to see video of or world view on climate change and the food system.
+* As a visting user, I would want to know how MDG and SGD are addressing climate change issues.
+* As a potential client, I would want to know the core strength of EG.  
+* As a potential client, I would want to know the core mandate of EG. 
+* As a visiting user, I would want more about EG.
+* As a visting user, I would want to know why I should partner with EG.
+* As a visting user, I would want to know how I could partner with EG.
+* As a potential investor, I would want know where this organisation is located.
+* As a potential customer, I would want to see some of photos as proof of what they have started and what they are doing.
+* As a potential customer, I would want to see some of photos as proof of what they have started and what they are doing.
+* As a potential donor, I would want  to know why I should donate or give materially or financially.
+* As a visting user, I would want to know how contact the management.
+* The management would want to be able to contact potential investors.
+* As the management, I want to provide my social media links so that users can follow my updates
+* As the management, I want to be contatcted by potential donors.
 
 **From perspective of ownership:**
 
@@ -173,56 +182,121 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
 
 # **Testing user stories from UX**
 
-* Know how climate change may impact the food system.
-    1. From the HOME PAGE.
-    2. User scrolls down just below the hero image
-    3. There is the article on FOOD-CLIMATE. 
-    4. Users can watch the world view, on climate change and food systems on the YouTube video embedded at the right corner of the article.
 
-* Know what strategy site owner have in place to achieve their vision.
-    1. A user at the home page will see the Navigation bar.
-    2. On the navigation, they can click the ABOUT link or icon.
-    3. The section will open swiftly.
 
-*  A potential client may want to know our core function and our strength.
-	1. At the homepage.
-    2. A user just scrolls down to the footer. It is right there.
 
-* They may want to know how to contact the organisation.
-	1. At the homepage.
-    2. A user at the home page will see the Navigation bar.
-    3. On the navigation they can click the GALLERY link or icon.
-    4. The section will scroll down swiftly.
 
-* They may want to know their function, strenght mission.
-    1. A user at the home page will see the Navigation bar.
-    2. On the navigation they can click the ABOUT link or icon.
-    3. The section will scroll down swiftly to our MISSION and VISON section.
 
-* They may want to know how to contact the host.
-    1. At the homepage
-    2. A user just scrolls down to the footer. Right there is our Phone, Email and Locations
 
-* Know where and how to partner with organiaztion.
-    1. At the homepage is the JOIN US red button at the header of the page at the top right-corner.
-    2. A click on it will open the modal form on the same age.
-    3. They fill their information on the placeholders.
-    4. When done, they can click the blue button below to submit.
+* As a visisting user, I want to know how climate change may impact the food system.
+                1. From the HOME PAGE.
+                2. User scrolls down just below the hero image
+                3. There is the article on FOOD-CLIMATE. 
+                4. Users can watch the world view, on climate change and food systems on the YouTube video embedded at the right corner of the article.
 
-* Why they should partner with organiaztion.
-    1. A user at the home page will see the Navigation bar
-    2. On the navigation they can click the WHY PARTNER WITH US link or icon
-    3. The section will scroll down swiftly to Why Partner and HOW
+* As a visting user, I would want to know the meaning of the logo "EG".
+                1. A user at the home page will see the logo at left corner of the header.
+                2. When he/ she hovers their cursor on the logo, it will display Essence Greenery.
+                3. EG is the acronym for Essence Greenery.
 
-* They may want to see some of our photos as proof to what we have started and done.
-    1. A user at the home page will see the Navigation bar
-    2. On the navigation they can click the GALLERY link or icon
-    3. The section will scroll down swiftly
+* As a visting user, I would want to know how to register with EG.
+                1. When the customer arrives on the webpage, he/she can see the navigation bar with several links.
+                2. Within the navigation link, they can click on the "contact us" and it will open the modal form.
+                3. The customer can fill the form and submit it. 
 
-* Donors that want to support may want to know why they should give.
-    1. A potential donor at the home page will see the Navigation bar
-    2. On the navigation they can click the SUPPORT link or icon
-    3. The section will scroll down swiftly to support our mission.
+
+* As a visiting user, I would want to see video of or world view on climate change and the food system.
+                1. When the customer arives on the webpage, he/she can see the navigation bar with several links.
+                2. Within the navigation link, they click on the Home link and it will scroll to the page.
+                3. The video is just by the right corner of the FOO-CLIMATE TEXT. They can click and watch. 
+
+
+* As a visting user, I would want to know how MDG and SGD are addressing climate change issues.
+                1. At the homepage, he/she can see the navigation bar with several links.
+                2. Within the navigation link, they click on the Home link and it will scroll to the page.
+                3. Within the Home page is Our Sustainable Mandate section.
+                4. There he/ she can click the images to link them to required information.
+
+
+* As a potential client, I would want to know the core strength of EG. 
+                1. When the user arrives on the webpage, the user he/ she can scroll down to the footer section.
+                2. A user just scrolls down to the footer. It is right there.
+                3. Our core strenght information is there at the footer.
+            
+
+* As a potential client, I would want to know the core mandate of EG. 
+                1. At the homepage, he/she can see the navigation bar with several links.
+                2. Within the navigation link, they click on the Home link and it will scroll to the page.
+                3. Within the Home page is Our Sustainable Mandate section.
+                4. There he/ she can click the images to link them to required information.
+                5. Our mandate is based on 1st, 2nd, 3rd, 8th, 13th, and 17th of the Sustainable Development Goals.
+
+* As a visiting user, I would want more about EG.
+                1. When the user arrives on the webpage, the user he/ she can see the navigation bar with several links.
+                2. On the navigation they can click the About link or icon.
+                3. The link will scroll down swiftly, and there they can read more information about EG.
+                4. The section also contain the MISSION and VISON of the organization.
+
+
+* As a visting user, I would want to know why I should partner with EG.
+                1. At the homepage, he/she can see the navigation bar with several links.
+                2. On the navigation they can click the WHY PARTNER WITH US link or icon
+                3. The section will scroll down swiftly to Why Partner and HOW section. Right there, the informations is available.
+                
+
+* As a visting user, I would want to know how I could partner with EG.
+                1. When the user arrives on the webpage, the user, he/ she can see the navigation bar with several links
+                2. On the navigation they can click the WHY PARTNER WITH US link or icon
+                3. The section will scroll down swiftly.
+                4. The user can click on the CONTACT US form at the Navigation bar to register with us.
+                5. They fill their information on the placeholders.
+                6. When done, they can click the blue button below to submit.
+
+
+* As a potential investor, I would want to know where this organisation is located.
+                1. When the user arrives on the webpage, the user he/ she can scroll down to the footer section.
+                2. A user just scrolls down to the footer. It is right there.
+                3. The full address of the organisation is located at the footer.
+
+
+* As a potential customer, I would want to see some of photos as proof of what they have started and what they are doing.
+                1. When the user arrives on the webpage, the user he/ she can scroll down to the footer section.
+                2. On the navigation they can click the GALLERY link or icon
+                3. The section will scroll down swiftly, right there are various image from EG.
+
+
+* As a potential donor, I would want  to know why I should donate or give materially or financially.
+                1. A potential donor at the home page will see the Navigation bar
+                2. On the navigation they can click the SUPPORT link or icon
+                3. The section will scroll down swiftly to support our mission.
+                4. Also, available there is a supporting video to view.
+
+* As a visting user, I would want to know how contact the management.
+                1. When the customer arrives on the webpage, he/she can see the navigation bar with several links.
+                2. The user can either choose to contact us using the CONTACT US form at the navigation bar.
+                3. The customer can fill the form and submit it.
+                4. Also, a user can just scroll down to the footer. Right there is our Phone, Email and Locations.
+ 
+
+* The management would want to be able to contact potential investors.
+               
+                1. When a customer arrives on the webpage, he/she can see the navigation bar with several links.
+                2. The user can fill their data on the CONTACT US form at the navigation bar and submit.
+                3. The management can reach potential clients through their information submitted with the contact us form.
+    
+
+* As the management, I want to provide my social media links so that users can follow my updates 
+                
+                1. When the user arrives on the webpage, the user can scroll down to the footer section.
+                2. In the footer section the user will see the social media links for the business.
+
+* As the management, I want to be contatcted by potential donors.
+
+                1. When the customer arrives on the webpage, he/she can see the navigation bar with several links.
+                2. The user can either choose to contact us using the CONTACT US form at the navigation bar.
+                3. The customer can fill the form and submit it.
+                4. Also, a user can just scroll down to the footer. Right there is our Phone, Email and Locations.
+
 
 **From perspectiev of ownership:**
 
