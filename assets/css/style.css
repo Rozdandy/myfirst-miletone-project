@@ -230,34 +230,32 @@ nav div ul.my-nav {
     background-color: rgb(213, 223, 228, 0.2);
 }
 
-#intro-food-climate {
-    margin-bottom:
-}
+
 
 .foodclimate-text-container h2  {
     text-transform: uppercase;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    padding-bottom: 25px;
-    letter-spacing: 2px;
+    margin-top: 1.56em;
+    margin-bottom: 1.56em;
+    padding-bottom: 1.56em;
+    letter-spacing: 0.13em;
     font-family: 'Merriweather Sans', sans-serif;
-    line-height: 25px;
+    line-height: 1.56em;
     font-weight: 700;
 }
 
 
  #foodclimate-text p {
     text-align: center;
-    font-size: 1.1rem;
+    font-size: 1.1em;
     margin-bottom: 0;
-    padding-left: 20px;
-    padding-right: 20px;
-    line-height: 30px;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    line-height: 1.88em;
     font-weight: 400;
     font-family: 'Roboto Condensed', sans-serif;
     color: #05041a;
     font-style: normal;
-    padding-bottom: 20px;
+    padding-bottom: 1.25em;
 }
 
 
@@ -267,12 +265,13 @@ nav div ul.my-nav {
     margin-bottom: 50px;
     margin-top: 75px; 
     position: relative; 
+
  }
 
 
 .my-new-class {
     width: 100%; 
-    height: 100%;
+    height: 100%;;
 }
 
 

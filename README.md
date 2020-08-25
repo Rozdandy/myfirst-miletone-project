@@ -34,22 +34,21 @@ Users may want to know the role of the food system to mitigate climate change. T
  
 * As a visiting user, I want to be able to know how climate change may impact the food system.
 * As a visiting user, I would want to know the meaning of the logo "EG".
-* As a visiting user, I would want to how know to register with EG.
+* As a visiting user, I would want to know how to register with EG.
 * As a visiting user, I would want to see video of or world view on climate change and the food system.
 * As a visiting user, I would want to know how MDG and SGD are addressing climate change issues.
 * As a potential client, I would want to know the core strength of EG.  
 * As a potential client, I would want to know the core mandate of EG. 
-* As a visiting user, I would want more about EG.
+* As a visiting user, I would want to know more about EG.
 * As a visiting user, I would want to know why I should partner with EG.
 * As a visiting user, I would want to know how I could partner with EG.
 * As a potential investor, I would want know where this organisation is located.
 * As a potential customer, I would want to see some of photos as proof of what they have started and what they are doing.
-* As a potential customer, I would want to see some of photos as proof of what they have started and what they are doing.
 * As a potential donor, I would want  to know why I should donate or give materially or financially.
-* As a visiting user, I would want to know how contact the management.
+* As a visiting user, I would want to know how to contact the management.
 * The management would want to be able to contact potential investors.
-* As the management, I want to provide my social media links so that users can follow my updates
-* As the management, I want to be contatcted by potential donors.
+* As the management, I want to provide my social media links so that users can follow my updates.
+* As the management, I would want to be contacted by potential donors.
 
 
 # **Features:**
@@ -64,14 +63,14 @@ The site has the following features:
 2. The **CONTACT US** red button
 3. The navigation bar: It housed all the links and icons of the site. It has the following:
 
-            i.   *Home link and icon*
-            ii.  *About link and icon* 
-            iii. *Why partner with us*
-            iv.  *Gallery link and icon* 
-            v.   *Support link and icon* 
+     i. *Home link and icon*
+    ii. *About link and icon* 
+   iii. *Why partner with us*
+    iv. *Gallery link and icon* 
+     v. *Support link and icon* 
 
 ## **2. EG**
-The company logo **EG**: It brings users back to the home but also the main page.
+The company logo **EG**: When a user hover the mouse over it, it displays the fullname of the organisation, also when a user click on it, it revert back to the home page.
 
 ## 3. Home Page 
 
@@ -86,38 +85,42 @@ This the first and main page of the site when a user click the URL. The page edu
 
 ## 4. About 
 This section gives an overview of what the organization stands for. 
+
 **It has the following features**:
 
-   * **About us**: This describe What EG is all about and what we do.
+   * **About us**: It describes What EG is all about and what we do.
    * Image
    * Mission: It explains the direction and what the comapny intend to achieve.
-   * Visions: it discuss the future aspirations of the organiaztion.
+   * Visions: it discusses the future aspirations of the organisation.
 
 
 ## 5. Why partner with us?
-In this section, it discuss the various reasons why it is necessary to partner with us at EG.
+This section discusses the various reasons why it is necessary to partner with us at EG.
+
 **It has the follwoing features**:
 
-   * The Need For Partnership section: It mainly text information on why it is imperative to partner with us.
+   * The Need For Partnership: This section provides texts information on why it is imperative to partner with us.
    * Image of forming bond of partnership.
-   * Why Partnership?: Those who we may want to partner with and why they should partner with us.
-   * How?: It discuss how the organiaztion intend to achieve this feat.
+   * Why Partnership?: It discusses about those who we may want to partner with and why they should partner with us.
+   * How?: It discusses how the organisation intended to achieve its feats.
 
 
 ## 6. Gallery
 This feature shows some of the previous works at the farm and part of our harvests.
+
 **It has the following features**:
 
    * **A carousel or slider**: This slider displays 5 images 
       * Image 1: It is image of freshly harvested corn.
       * Image 2: It is image of freshly harvested yam.
       * Image 3: It is image of harvested dry corn.
-      * Image 4: It is image of freshly watermelon.
-      * Image 5: It is images of farm workers.
+      * Image 4: It is image of freshly harvested watermelon.
+      * Image 5: It is image of farm workers.
 
 
 ## 7. Support 
 It explained why fingers are not equal, why some need help than the others, it appeal for the support of the less previledge. 
+
 **Specificall, it has the following features**:
 
    * Image with overlay text
@@ -126,7 +129,7 @@ It explained why fingers are not equal, why some need help than the others, it a
 
 
 ## **8. Footer:** 
-This section is located at the bottom-most part of the page. It provides the user with the following features 
+This section is located at the bottom-most part of the page. It provides the user with the following information.
    * Contact information 
    * Location 
    * Email address 
@@ -148,20 +151,20 @@ This section is located at the bottom-most part of the page. It provides the use
 
 *The follwoing Technologies, Frameworks, and Libraries that were used to write the project.*
 
-* HTML: HTML/HTML5 the language used to create the form and add content to the website
-* CSS: provide the styling for the website.
-* Git was used for version control which uses the Gitpod terminal to commit to Git and Push codesto GitHub
-* GitHub: Developer used [GitHub](https://github.com/) as a project repository to save and as hosting service to live site.
-* Gitpod: The project used the Gitpod IDE as my workpsce to develop the website.
-* Icons: Developer used icons from [Font Awesome](https://fontawesome.com/)	
-* JQuery: Developer got this from [BootStrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/ ).
-* Javascript: I got this from [BootStrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/ ) which i used for my modal form our **CONTACT US** form
-* Stack Overflow:	Developer used [Stack Overflow](https://fontawesome.com/) websites to check for proper syntax while creating the project.
-* CSS validator: [CSS validator](https://jigsaw.w3.org/css-validator/) was used to test for the validdity of my CSS code. 
-* HTML validator:  [HTML validator](https://validator.w3.org/) was used to test for the validdity of my HTML code.
-* Hover.css: [Hover.css](https://ianlunn.github.io/Hover/) was used on navigation bar links and Social Media icons in the footer for hovering effects
-* Balsamiq: [Balsamiq](https://balsamiq.com/) was used to create the wireframes during the design stage of the project.
-* Used [freeformatter](https://www.freeformatter.com/html-formatter.html) for the formatting of HTML.
+* **HTML**: HTML/HTML5 the language used to create the form and add content to the website
+* **CSS**: It provides the styling for the website.
+* **Git**: It was used for version control which uses the Gitpod terminal to commit to Git and Push codes to GitHub
+* **GitHub**:         [GitHub](https://github.com/) Developer used GitHub as a project repository to save, and as a hosting service to live site.
+* **Gitpod**: The project used the Gitpod IDE as my workpsce to develop the website.
+* **Icons**:          [Font Awesome](https://fontawesome.com/) Social Media Icons were taken from this site.
+* **JQuery**:         [BootStrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) Developer embedded JQuery from Bootstrap.
+* **Javascript**:     [BootStrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) Developer used Bootstrap for the Navbar, Grids, Carousel and modal form included in this project.
+* **Stack Overflow**: [Stack Overflow](https://fontawesome.com/)	Developer used the websites to check for proper syntax while creating the project.
+* **CSS validator**:  [CSS validator](https://jigsaw.w3.org/css-validator/) The site was used to test for the validity of my CSS code. 
+* **HTML validator**: [HTML validator](https://validator.w3.org/) The site was used to test for the validity of my HTML code.
+* **Hover.css**:      [Hover.css](https://ianlunn.github.io/Hover/) The site was used on the navigation bar links and Social Media icons in the footer to create an hovering effects.
+* **Balsamiq**:       [Balsamiq](https://balsamiq.com/) The site was used to create the wireframes during the design stage of the project.
+* **freeformatter**:  [freeformatter](https://www.freeformatter.com/html-formatter.html) The site was used to format HTML.
 
 
 ### **Colour Scheme**
@@ -175,7 +178,7 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
 
  ### **Typography**
 
- * Font: Developer used the [Google Fonts!](https://fonts.google.com/) and emebed the "Roboto", sans-serif; that I used in the paragraphs and 'Merriweather Sans', sans-serif; that I used for the headers.
+ * Font: [Google Fonts!](https://fonts.google.com/) The two main fonts used in this project came from Google Fonts. Developer use "Roboto", sans-serif for the paragraphs and 'Merriweather Sans', sans-serif; for the headers.
 
 
 # **Testing user stories from UX**
@@ -183,7 +186,7 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
 
 * As a visiting user, I want to know how climate change may impact the food system.
                 1. From the HOME PAGE.
-                2. User scrolls down just below the carousel slider
+                2. User scrolls down just below the carousel slider.
                 3. There is the article on FOOD-CLIMATE. 
                 4. Users can watch the world view, on climate change and food systems on the YouTube video embedded at the right corner of the article.
 
@@ -218,8 +221,7 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
 * As a potential client, I would want to know the core strength of EG. 
 
                 1. When the user arrives on the webpage, the user he/ she can scroll down to the footer section.
-                2. A user just scrolls down to the footer. It is right there.
-                3. Our core strenght information is there at the footer.
+                2. Our core strenght information is there at the footer.
             
 
 * As a potential client, I would want to know the core mandate of EG. 
@@ -230,7 +232,7 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
                 4. There he/ she can click the images to link them to required information.
                 5. Our mandate is based on 1st, 2nd, 3rd, 8th, 13th, and 17th of the Sustainable Development Goals.
 
-* As a visiting user, I would want more about EG.
+* As a visiting user, I would want to know more about EG.
 
                 1. When the user arrives on the webpage, the user he/ she can see the navigation bar with several links.
                 2. On the navigation they can click the About link or icon.
@@ -311,12 +313,12 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
 1. Navigation bar 
 
               1. At the Home Page on desktop. 
-              2. Inspect links, and icons in the navigation menu to ensure they are well placed appearing correctly and centrally aligned on the navigation bar.
+              2. Inspect links, and icons in the navigation menu to ensure they are well placed and they are appearing correctly and centrally aligned on the navigation bar.
               3. Notice that the navbar is fixed so no matter where you are on the site you know where you are, one can click to access any any section.
-              3. Move your cursor over the logo "EG" to display the full name of the organiaztion, that is, Essence Greenery.
-              4. Move the cursor over the icons to ensure they hovers and displaying the expected red color.
-              5. Resize the screen to mobile view to ensure that the navigation bar is responsive and all the icons and links collapsed into the toggler icon. 
-              6. To test the smooth scroll and also to verify that the links are working do the following:
+              4. Move your cursor over the logo "EG" to display the full name of the organiaztion, that is, Essence Greenery.
+              5. Move the cursor over the icons to ensure they hovers and displaying the expected red color.
+              6. Resize the screen to mobile view to ensure that the navigation bar is responsive and all the icons and links collapsed into the toggler icon. 
+              7. To test the smooth scroll and also to verify that the links are working do the following:
 
                     (i)   Click on "HOME" link and verify that it stays on the HOME page
                     (ii)  Click on "ABOUT" link and verify that it scrolls smoothly to the ABOUT section.
@@ -340,12 +342,12 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
               1. Scroll down to the ABOUT section or click on the icon at the navigation bar on a desktop view. 
               2. The ABOUT heading is bold and centrally aligned in the 2/3 container with a background color of #05041a.
               3. Notice the innovative image occupies 1/3 of the whole section.
-              3. Notice that the headings are properly placed within their columns and they are centrally aligned.
-              4. Check that the sub-heading that it is capitalize is properly placed.
-              5. Ensured that the text are legible and centrally align. 
-              6. Check the Mission and Vision section texts that they italics and centrally align.
-              7. Repeat this same steps on a mobile view.
-              8. Also, inspect that all the various sections are vertically align for the mobile view and they are responsives.
+              4. Notice that the headings are properly placed within their columns and they are centrally aligned.
+              5. Check that the sub-heading that it is capitalize is properly placed.
+              6. Ensured that the text are legible and centrally align. 
+              7. Check the Mission and Vision section texts that they italics and centrally align.
+              8. Repeat this same steps on a mobile view.
+              9. Also, inspect that all the various sections are vertically align for the mobile view and they are responsives.
 
 
 3. **Why partner with us?**
@@ -370,8 +372,6 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
               5. Repeat this same steps on a mobile view
 
 
-
-
 5. **The Support section** 
 
               1. Click on the icon at the navigation bar on the desktop view or manually scroll down to section.
@@ -385,16 +385,15 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
               9. Also, inspect that all the various sections are vertically align for the mobile view and they are responsives.
 
 
-
 6. **Footer**
 
               1. Scroll down to the footer section.
-              2. check that the background color is same as that of the theme of the Navigational bar.
+              2. Check that the background color is same as that of the theme of the Navigational bar.
               3. Check that all the contacts are there and the social links are working.
-              3. check that the content in the about section are aligned properly.
-              4. Check the padding of the of the contents.
-              5. Ensure when you hover on the social media icons they display red.
-              5. Repeat this same steps on a mobile view.
+              4. Check that the content in the about section are aligned properly.
+              5. Check the padding of the contents.
+              6. Ensure when you hover on the social media icons they display red.
+              7. Repeat this same steps on a mobile view.
 
 
 **Testing User Stories using HTML, CSS and and other sites**
@@ -416,32 +415,26 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
 The project was created on GitHub and used GitPod's integrated development environment to write the codes.
 To enable project to be seen, It was deployed to GitHub Pages using the following processes:
 
-1. Firstly, a repository was created inside of my GitHub account using the template given by the Code Institute.
-2. Secondly, the page was launched  my work environment on Gitpod from the repository namely: **myfirst-miletone-project** using Gitpod's Chrome extension that I have already installed in my system.
-3. Intermittently, developer pushed all relevant changes to the repository (**myfirst-miletone-project**), from Gitpod regularly on daily bases.
-4. When the project was completed, it was opened in the 'Settings' in the project repository in GitHub.
-5. Scroll down the Settings page till one sees the "GitHub Pages" Section location.
-6. Under "Source", click the dropdown called "None" and select "Master Branch"
-7. The page automatically refreshed.
-8. This process deployed the project on GitHub Pages, that enables to share the live website with others.
+    1. Firstly, a repository was created inside of my GitHub account using the template given by the Code Institute.
+    2. Secondly, the page was launched  my work environment on Gitpod from the repository namely: **myfirst-miletone-project** using Gitpod's Chrome extension that I have already installed in my system.
+    3. Intermittently, developer pushed all relevant changes to the repository (**myfirst-miletone-project**), from Gitpod regularly on daily bases.
+    4. When the project was completed, it was opened in the 'Settings' in the project repository in GitHub.
+    5. Scroll down the Settings page till one sees the "GitHub Pages" Section location.
+    6. Under "Source", click the dropdown called "None" and select "Master Branch"
+    7. The page automatically refreshed.
+    8. This process deployed the project on GitHub Pages, that enables to share the live website with others.
 
 
 **How to clone / run this project locally, for other users**
-1.	On GitHub, go to my Github page.
-2.	Go to the repositories by clicking on the dropdown light-green button located at the far-right top.
-3.	Then choose “YOUR REPOSITORIES” from the dropdown’s.
-4.	At the repositories page, click on the title of the project “myfirst-miletone-project”
-5.	Under the repository name, click Clone or download.
-6.	In the Clone with HTTPs section, click to copy the clone URL for the repository.
-7.	Open Githpod workspace, that is Git Bash.
-8.	Using the command line, type git clone, and then paste the URL you copied in Step 6.
-9.	Press Enter. Your local clone will be created.
-
-
-
-
-
-
+    1.	On GitHub, go to my Github page.
+    2.	Go to the repositories by clicking on the dropdown light-green button located at the far-right top.
+    3.	Then choose “YOUR REPOSITORIES” from the dropdown’s.
+    4.	At the repositories page, click on the title of the project “myfirst-miletone-project”
+    5.	Under the repository name, click Clone or download.
+    6.	In the Clone with HTTPs section, click to copy the clone URL for the repository.
+    7.	Open Githpod workspace, that is Git Bash.
+    8.	Using the command line, type git clone, and then paste the URL you copied in Step 6.
+    9.	Press Enter. Your local clone will be created.
 
 
 
@@ -453,33 +446,33 @@ To enable project to be seen, It was deployed to GitHub Pages using the followin
 
 This project was totally developer's concept, written by Ambrose Akpobe but also with  some help from:
 
-* Code Institute's videos, most  especially the resume cv walk through project and the mini Whiskey and Love Running projects.
-* Youtube : For the embedded videos
-* BootStrap : for the grid layout, forms, JavaScript and jquery 
-* Chrome Dev tools – to check for my responsiveness and errors
-* Pexels: for some pictures
-* John Hopkins library: https://clf.jhsph.edu/. I read through their literatures.
-* https://alexnexton.github.io/MS1-OneArena/facilities.html made comparison of this work to mine in terms layout.
+    * Code Institute's videos, most  especially the resume cv walk through project and the mini Whiskey and Love Running projects.
+    * Youtube : For the embedded videos
+    * BootStrap : for the grid layout, forms, JavaScript and jquery 
+    * Chrome Dev tools – to check for my responsiveness and errors
+    * Pexels: for some pictures
+    * John Hopkins library: https://clf.jhsph.edu/. I read through their literatures.
+    * https://alexnexton.github.io/MS1-OneArena/facilities.html made comparison of this work to mine in terms layout.
 
 ## **Media**
 
 All of the images in the gallery section were supplied by me except one from Pexels. The rest were taken from the following sources:
 Below are the references of those images:
-* Home page (hero image)
-    https://www.pexels.com/photo/green-field-near-houses-2165688/
-* Support image: https://www.pexels.com/photo/person-holding-babys-hand-3845456/ which formed the Hero-image.
-* Other photos gotten using google image for partnership (
-    https://assets.entrepreneur.com/content/3x2/2000/building-a-business-partnership-that-lasts.jpg)
-    Also, the mission image (https://dairynow.ca/wp-content/uploads/2017/05/Agricultural-Drone.jpg)
-* Embedded videos were taken from YouTube.
+    * Home page (hero image)
+        https://www.pexels.com/photo/green-field-near-houses-2165688/
+    * Support image: https://www.pexels.com/photo/person-holding-babys-hand-3845456/ which formed the Hero-image.
+    * Other photos gotten using google image for partnership (
+        https://assets.entrepreneur.com/content/3x2/2000/building-a-business-partnership-that-lasts.jpg)
+        Also, the mission image (https://dairynow.ca/wp-content/uploads/2017/05/Agricultural-Drone.jpg)
+    * Embedded videos were taken from YouTube.
 
 # **Acknowledgements**
  I want to Thank and appreciate:
 
-* God for breath of life and everything.
-* My wife for support.
-* My mentor for advice and feedback.
-* Student care and student tutors for being there when I needed them most.
+    * God for breath of life and everything.
+    * My wife for support.
+    * My mentor for advice and feedback.
+    * Student care and student tutors for being there when I needed them most.
 
 
 
