@@ -426,6 +426,7 @@ To enable project to be seen, It was deployed to GitHub Pages using the followin
 
 
 **How to clone / run this project locally, for other users**
+
     1.	On GitHub, go to my Github page.
     2.	Go to the repositories by clicking on the dropdown light-green button located at the far-right top.
     3.	Then choose “YOUR REPOSITORIES” from the dropdown’s.
