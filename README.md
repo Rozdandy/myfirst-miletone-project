@@ -47,9 +47,25 @@ Users may want to know the role of the food system to mitigate climate change. T
 * As a potential donor, I would want  to know why I should donate or give materially or financially.
 * As a visiting user, I would want to know how to contact the management.
 * The management would want to be able to contact potential investors.
-* As the management, I want to provide my social media links so that users can follow my updates.
+* As a management, I want to provide my social media links so that users can follow my updates.
 * As the management, I would want to be contacted by potential donors.
 
+### Design
+
+#### **Colour Scheme**
+
+The developer used [eggradients](https://www.eggradients.com/shades-of-green-color) to choose colors that were used in creating the website. Particularly, 5 colors were used and they signify what the sites stands for.
+  * RGBA(0,73,83,0.9): this is a shade of green-blue which is very important in agriculture, it also signifies sustainable development whereby in the process of development you do not impact the environment negatively.
+  * #ffffff: it signify purity and pristine.
+  * RGBA(255,36,0, 0.8): It is a shade of red for cheerfulness, energy, and enthusiasm for the future and hope those for that need support.
+  * #003d52: this is a shade of blue, it signifies the sky, climate change, the water, and the color used in the 17TH SDG.
+  * #5a172a: A shade of brown which signifies the earth (brown soil).
+
+ #### **Typography**
+
+ * Font: [Google Fonts!](https://fonts.google.com/) The two main fonts used in this project came from Google Fonts. Developer use "Roboto", sans-serif for the paragraphs and 'Merriweather Sans', sans-serif; for the headers.
+
+* **Stack Overflow**: [Stack Overflow](https://fontawesome.com/)	Developer used the websites to check for proper syntax while creating the project.
 
 # **Features:**
 
@@ -77,7 +93,7 @@ The company logo **EG**: When a user hover the mouse over it, it displays the fu
 This the first and main page of the site when a user click the URL. The page educates on the existence of climate change and the action of the international community such as COP 21 in acknowledgement of climate change. 
 **Specifically it has the following features**:
 
- *  **A carousel or slider**: This slider displays three images of the food system, the before after effect of climate change, and the melting polar region image.
+  *  **A carousel or slider**: This slider displays three images of the food system, the before after effect of climate change, and the melting polar region image.
     *   An overlay text on the carousel
     *   A text section that inform about climate change impact
     *   A video on climate change with respect to the food system
@@ -121,7 +137,7 @@ This feature shows some of the previous works at the farm and part of our harves
 ## 7. Support 
 It explained why fingers are not equal, why some need help than the others, it appeal for the support of the less previledge. 
 
-**Specificall, it has the following features**:
+**Specifically, it has the following features**:
 
    * Image with overlay text
    * Support Our Mission: The section appeals for help and donation either materially or financially.
@@ -146,7 +162,6 @@ This section is located at the bottom-most part of the page. It provides the use
 * the Social media such as the facebook, instagram, twitter, linkedin will open link Essence Greenery instead of developer personal account. 
 
 
-
 # **Technology Used**
 
 *The follwoing Technologies, Frameworks, and Libraries that were used to write the project.*
@@ -159,7 +174,6 @@ This section is located at the bottom-most part of the page. It provides the use
 * **Icons**:          [Font Awesome](https://fontawesome.com/) Social Media Icons were taken from this site.
 * **JQuery**:         [BootStrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) Developer embedded JQuery from Bootstrap.
 * **Javascript**:     [BootStrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) Developer used Bootstrap for the Navbar, Grids, Carousel and modal form included in this project.
-* **Stack Overflow**: [Stack Overflow](https://fontawesome.com/)	Developer used the websites to check for proper syntax while creating the project.
 * **CSS validator**:  [CSS validator](https://jigsaw.w3.org/css-validator/) The site was used to test for the validity of my CSS code. 
 * **HTML validator**: [HTML validator](https://validator.w3.org/) The site was used to test for the validity of my HTML code.
 * **Hover.css**:      [Hover.css](https://ianlunn.github.io/Hover/) The site was used on the navigation bar links and Social Media icons in the footer to create an hovering effects.
@@ -167,28 +181,32 @@ This section is located at the bottom-most part of the page. It provides the use
 * **freeformatter**:  [freeformatter](https://www.freeformatter.com/html-formatter.html) The site was used to format HTML.
 
 
-### **Colour Scheme**
 
-The developer used [eggradients](https://www.eggradients.com/shades-of-green-color) to choose colors that were used in creating the website. Particularly, 5 colors were used and they signify what the sites stands for.
-  * RGBA(0,73,83,0.9): this is a shade of green-blue which is very important in agriculture, it also signifies sustainable development whereby in the process of development you do not impact the environment negatively.
-  * #ffffff: it signify purity and pristine.
-  * RGBA(255,36,0, 0.8): It is a shade of red for cheerfulness, energy, and enthusiasm for the future and hope those for that need support.
-  * #003d52: this is a shade of blue, it signifies the sky, climate change, the water, and the color used in the 17TH SDG.
-  * #5a172a: A shade of brown which signifies the earth (brown soil).
-
- ### **Typography**
-
- * Font: [Google Fonts!](https://fonts.google.com/) The two main fonts used in this project came from Google Fonts. Developer use "Roboto", sans-serif for the paragraphs and 'Merriweather Sans', sans-serif; for the headers.
+# Testing
 
 
-# **Testing user stories from UX**
+***Sites Validation***
 
+I used the following webistes to validate both my HTML and CSS files respectively.
+
+* [HTML-Validator](https://validator.w3.org/#validate_by_input "HTML-Validator")
+* [CSS-validator](https://jigsaw.w3.org/css-validator/#validate_by_input "CSS-validator")
+
+    * The HTML validated my codes and it went through successfully.
+    * Similarly. the CSS validator checked the Cascading Style Sheets (CSS). And it was without errors on my CSS
+    * Also, I used the 'Audit' option in Google Dev Tools to ensure the site is working perfectly.
+    * Furthermore, the website was tested on Google Chrome, Mozilla, Firefox, and Internet Explorer.
+    * Though it worked well in all the sites except Internet Explorer and this because the site is not compatible 
+      with the grid in BootStrap.
+
+# **Testing user stories from UX section**
 
 * As a visiting user, I want to know how climate change may impact the food system.
                 1. From the HOME PAGE.
                 2. User scrolls down just below the carousel slider.
                 3. There is the article on FOOD-CLIMATE. 
-                4. Users can watch the world view, on climate change and food systems on the YouTube video embedded at the right corner of the article.
+                4. Users can watch the world view, on climate change and food systems on the YouTube video 
+                   embedded at the right corner of the article.
 
 * As a visiting user, I would want to know the meaning of the logo "EG".
 
@@ -198,8 +216,10 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
 
 * As a visiting user, I would want to know how to register with EG.
 
-                1. When the customer arrives on the webpage, he/she can see the navigation bar with several links.
-                2. Within the navigation link, they can click on the "contact us" and it will open the modal form.
+                1. When the customer arrives on the webpage, he/she can see the navigation bar with several 
+                   links.
+                2. Within the navigation link, they can click on the "contact us" and it will open the modal 
+                   form.
                 3. The customer can fill the form and submit it. 
 
 
@@ -213,14 +233,16 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
 * As a visiting user, I would want to know how MDG and SGD are addressing climate change issues.
 
                 1. At the homepage, he/she can see the navigation bar with several links.
-                2. Within the navigation link, they click on the Home link and it will scroll to the page.
+                2. Within the navigation link, they click on the Home link and it will scroll 
+                   to the page.
                 3. Within the Home page is Our Sustainable Mandate section.
                 4. There he/ she can click the images to link them to required information.
 
 
 * As a potential client, I would want to know the core strength of EG. 
 
-                1. When the user arrives on the webpage, the user he/ she can scroll down to the footer section.
+                1. When the user arrives on the webpage, the user he/ she can scroll down to the footer 
+                   section.
                 2. Our core strenght information is there at the footer.
             
 
@@ -230,11 +252,13 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
                 2. Within the navigation link, they click on the Home link and it will scroll to the page.
                 3. Within the Home page is Our Sustainable Mandate section.
                 4. There he/ she can click the images to link them to required information.
-                5. Our mandate is based on 1st, 2nd, 3rd, 8th, 13th, and 17th of the Sustainable Development Goals.
+                5. Our mandate is based on 1st, 2nd, 3rd, 8th, 13th, and 17th of the Sustainable Development 
+                   Goals.
 
 * As a visiting user, I would want to know more about EG.
 
-                1. When the user arrives on the webpage, the user he/ she can see the navigation bar with several links.
+                1. When the user arrives on the webpage, the user he/ she can see the navigation bar with 
+                   several links.
                 2. On the navigation they can click the About link or icon.
                 3. The link will scroll down swiftly, and there they can read more information about EG.
                 4. The section also contain the MISSION and VISON of the organization.
@@ -244,7 +268,8 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
 
                 1. At the homepage, he/she can see the navigation bar with several links.
                 2. On the navigation they can click the WHY PARTNER WITH US link or icon
-                3. The section will scroll down swiftly to Why Partner and HOW section. Right there, the informations is available.
+                3. The section will scroll down swiftly to Why Partner and HOW section. Right there, 
+                   the informations is available.
                 
 
 * As a visiting user, I would want to know how I could partner with EG.
@@ -313,54 +338,67 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
 1. Navigation bar 
 
               1. At the Home Page on desktop. 
-              2. Inspect links, and icons in the navigation menu to ensure they are well placed and they are appearing correctly and centrally aligned on the navigation bar.
-              3. Notice that the navbar is fixed so no matter where you are on the site you know where you are, one can click to access any any section.
-              4. Move your cursor over the logo "EG" to display the full name of the organiaztion, that is, Essence Greenery.
+              2. Inspect links, and icons in the navigation menu to ensure they are well placed and they are 
+                 appearing correctly and centrally aligned on the navigation bar.
+              3. Notice that the navbar is fixed so no matter where you are on the site you know where you are,
+                 one can click to access any any section.
+              4. Move your cursor over the logo "EG" to display the full name of the organiaztion, that is, 
+                 Essence Greenery.
               5. Move the cursor over the icons to ensure they hovers and displaying the expected red color.
-              6. Resize the screen to mobile view to ensure that the navigation bar is responsive and all the icons and links collapsed into the toggler icon. 
+              6. Resize the screen to mobile view to ensure that the navigation bar is responsive and all 
+                 the icons and links collapsed into the toggler icon. 
               7. To test the smooth scroll and also to verify that the links are working do the following:
 
                     (i)   Click on "HOME" link and verify that it stays on the HOME page
                     (ii)  Click on "ABOUT" link and verify that it scrolls smoothly to the ABOUT section.
-                    (iii) Click on "WHY PARTNER WITH US?" and verify that it scrolls smoothly to the WHY PARTNER WITH US? section.
+                    (iii) Click on "WHY PARTNER WITH US?" and verify that it scrolls smoothly to the 
+                          WHY PARTNER WITH US? section.
                     (iv)  Click on "GALLERY" link and verify that it scrolls smoothly to the GALLERY section.
                     (v)   Click on "SUPPORT" link and verify that it scrolls smoothly to the SUPPORT section.
                     (vi)  Click on "CONTACT US" link and verify that form open.
 
                     **On the mobile view and medium device view**
 
-                    (a) Check to ensure that the navigation bar is responsive and all the icons and links collapsed into the toggler icon.
+                    (a) Check to ensure that the navigation bar is responsive and all the icons and links collapsed 
+                        into the toggler icon.
                     (b) Notice that the toggler icon is properly styled and at the right corner position.
-                    (c) Notice that all the icons are hidden, and that only the names of the links that appears and they are centrally and vertically aligned.
+                    (c) Notice that all the icons are hidden, and that only the names of the links that appears 
+                        and they are centrally and vertically aligned.
                     (d) Repeat steps (i) - (v) above for the mobile views
-                    (e) Check the overlay text in the home page carousel, ensure the overlay text is hidden for the mobile device and medium device.
+                    (e) Check the overlay text in the home page carousel, ensure the overlay text is hidden for 
+                        the mobile device and medium device.
                     (f) Notice that all the various sections are vertically align for the mobile view.
 
 
 2. **About section**
 
               1. Scroll down to the ABOUT section or click on the icon at the navigation bar on a desktop view. 
-              2. The ABOUT heading is bold and centrally aligned in the 2/3 container with a background color of #05041a.
+              2. The ABOUT heading is bold and centrally aligned in the 2/3 container with a background color 
+                 of #05041a.
               3. Notice the innovative image occupies 1/3 of the whole section.
               4. Notice that the headings are properly placed within their columns and they are centrally aligned.
               5. Check that the sub-heading that it is capitalize is properly placed.
               6. Ensured that the text are legible and centrally align. 
               7. Check the Mission and Vision section texts that they italics and centrally align.
               8. Repeat this same steps on a mobile view.
-              9. Also, inspect that all the various sections are vertically align for the mobile view and they are responsives.
+              9. Also, inspect that all the various sections are vertically align for the mobile view and they 
+                 are responsives.
 
 
 3. **Why partner with us?**
 
-              1. Scroll down to the Why partner with us? section or click on the Why partner with us? link in the navigation bar on a desktop view.
+              1. Scroll down to the Why partner with us? section or click on the Why partner with us? link in the 
+                 navigation bar on a desktop view.
               2. check the about heading is bold, centrally alligned and it is in uppercase in the container
               3. Check that the sub-heading that it is capitalize is properly placed.
-              4. Insepct the section that it occupies 2/3 container of the whole section with a background color of #05041a.
+              4. Insepct the section that it occupies 2/3 container of the whole section with a background 
+                 color of #05041a.
               5. Ensured that the text are legible and centrally align. 
               6. Notice the partnership image occupies 1/3 of the whole section.
               7. Check the How section texts that they italics and centrally align.
               8. Repeat this same steps on a mobile view.
-              9. Also, inspect that all the various sections are vertically align for the mobile view and they are responsives.
+              9. Also, inspect that all the various sections are vertically align for the mobile view and they 
+                 are responsives.
 
 
 4. **Gallery section** 
@@ -368,21 +406,25 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
               1. Scroll down to the GALLERY section or click on the icon at the navigation bar on a desktop view.
               2. Inspect that the carousel is sliding perfectly.
               3. Check the slider that their are five images
-              4. Check the slider indicators that are working and the previous and next button are functioning
+              4. Check the slider indicators that are working and the previous and next button are
+                 functioning
               5. Repeat this same steps on a mobile view
 
 
 5. **The Support section** 
 
-              1. Click on the icon at the navigation bar on the desktop view or manually scroll down to section.
-              2. Check the Support heading is bold, uppercase and centrally aligned in the 2/3 container with a background color of red;
+              1. Click on the icon at the navigation bar on the desktop view or manually scroll down 
+                 to section.
+              2. Check the Support heading is bold, uppercase and centrally aligned in the 2/3 container 
+                 with a background color of red;
               3. Check that the sub-heading is also in uppercase and it is properly placed.
               4. Ensure that text are legible, italics and white.
               5. Ensured that the text are legible and centrally align. 
               6. Notice the embedded video is working properly and it occupies 1/3 of the whole section.
               7. Check the How section texts that they italics and centrally align.
               8. Repeat this same steps on a mobile view.
-              9. Also, inspect that all the various sections are vertically align for the mobile view and they are responsives.
+              9. Also, inspect that all the various sections are vertically align for the mobile view 
+                 and they are responsives.
 
 
 6. **Footer**
@@ -395,37 +437,27 @@ The developer used [eggradients](https://www.eggradients.com/shades-of-green-col
               6. Ensure when you hover on the social media icons they display red.
               7. Repeat this same steps on a mobile view.
 
-
-**Testing User Stories using HTML, CSS and and other sites**
-
-* I used the following websites HTML-Validator and CSS-validator to validate both my HTML and CSS files respectively.
-* The HTML validated my codes and it went through successfully.
-* Similarly. the CSS validator checked the Cascading Style Sheets (CSS). And it was without errors on my CSS
-* Also, I used the 'Audit' option in Google Dev Tools to ensure the site is working perfectly.
-* Furthermore, I tested the website on Google Chrome, Mozilla, Firefox, and Internet Explorer.
-* Though it worked well in all the sites except Internet Explorer and this because the site is not compatible with the grid in BootStrap.
-
 **Bugs**
 
- Observed some issues at the console when using chrome google Dev tools. I found about 7 of them, those red flags came from chrome browser and not necessary from my website.
- Also, some other known bugs were white spaces created at the top navigation bar when the device was set to mobile design. I was able to fix it.
+ Observed some issues at the console when using chrome google Dev tools. I found about 7 of them, those 
+ red flags came from chrome browser and not necessary from my website.
+ Also, some other known bugs were white spaces created at the top navigation bar when the device was set 
+ to mobile design. I was able to fix it.
 
 # **Deployment**
 
-The project was created on GitHub and used GitPod's integrated development environment to write the codes.
-To enable project to be seen, It was deployed to GitHub Pages using the following processes:
-
-    1. Firstly, a repository was created inside of my GitHub account using the template given by the Code Institute.
-    2. Secondly, the page was launched  my work environment on Gitpod from the repository namely: **myfirst-miletone-project** using Gitpod's Chrome extension that I have already installed in my system.
-    3. Intermittently, developer pushed all relevant changes to the repository (**myfirst-miletone-project**), from Gitpod regularly on daily bases.
-    4. When the project was completed, it was opened in the 'Settings' in the project repository in GitHub.
-    5. Scroll down the Settings page till one sees the "GitHub Pages" Section location.
-    6. Under "Source", click the dropdown called "None" and select "Master Branch"
-    7. The page automatically refreshed.
-    8. This process deployed the project on GitHub Pages, that enables to share the live website with others.
+    1.	On GitHub, go to my Github page.
+    2.	Go to the repositories by clicking on the dropdown light-green button located at the far-right top.
+    3.  Then choose “YOUR REPOSITORIES” from the dropdown’s.
+    4.	At the repositories page, click on the title of the project “myfirst-miletone-project”, the project to a new page.
+    5.  On the page and just above it is a Green button called "code", click on it to reveal the dropdown.
+    6.  Select and click "Download Zip" from the dropdown’s. The file will be downloaded on your local computer.
+    7.  Select the downloaded file on your local computer system, click on the file to extract.
+    8.  Click on the "index.html" link of the extracted file and site would be deployed.
 
 
 **How to clone / run this project locally, for other users**
+
 
     1.	On GitHub, go to my Github page.
     2.	Go to the repositories by clicking on the dropdown light-green button located at the far-right top.
@@ -447,17 +479,20 @@ To enable project to be seen, It was deployed to GitHub Pages using the followin
 
 This project was totally developer's concept, written by Ambrose Akpobe but also with  some help from:
 
-    * Code Institute's videos, most  especially the resume cv walk through project and the mini Whiskey and Love Running projects.
+    * Code Institute's videos, most  especially the resume cv walk through project and the mini Whiskey and Love 
+      Running projects.
     * Youtube : For the embedded videos
     * BootStrap : for the grid layout, forms, JavaScript and jquery 
     * Chrome Dev tools – to check for my responsiveness and errors
     * Pexels: for some pictures
     * John Hopkins library: https://clf.jhsph.edu/. I read through their literatures.
-    * https://alexnexton.github.io/MS1-OneArena/facilities.html made comparison of this work to mine in terms layout.
+    * https://alexnexton.github.io/MS1-OneArena/facilities.html made comparison of this work to mine in terms 
+      layout.
 
 ## **Media**
 
-All of the images in the gallery section were supplied by me except one from Pexels. The rest were taken from the following sources:
+All of the images in the gallery section were supplied by me except one from Pexels. The rest were taken from 
+the following sources:
 Below are the references of those images:
     * Home page (hero image)
         https://www.pexels.com/photo/green-field-near-houses-2165688/

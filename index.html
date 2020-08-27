@@ -439,33 +439,36 @@
          <div class="modal-dialog" role="document">
             <div class="modal-content">
                <div class="modal-header">
-                  <h4> Contact Details</h4>
+               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                  </button>
                </div>
                <div class="modal-body">
                   <form>   
+                    <div class="row">
+                      <div class="col">
+                            <h6 class="modalForm">Want to Partner With US?</h6>
+                            <p>Fill in your details we will get back to you.</p>
+                        </div>
+                    </div>
+
+
                      <div class="form-group">
-                        <label for="name">Name:</label>
+                        <label class="modalForm" for="name" class="modalForm">Name:</label>
                         <input type="text" class="form-control" id="name" placeholder="Enter your full name" required>
                      </div>
                      <div class="form-group">
-                        <label for="exampleInputEmail1">Email Address:</label>
+                        <label class="modalForm" for="exampleInputEmail1">Email Address:</label>
                         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
                         <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                      </div>
+                     
                      <div class="form-group">
-                        <label for="password">Password:</label>
-                        <input type="password" class="form-control" id="password" placeholder="Password" required>
-                     </div>
-                     <div class="form-group">
-                        <label for="repeatpassword">Password:</label>
-                        <input type="password" class="form-control" id="repeatpassword" placeholder="Repeat Password" required>
-                     </div>
-                     <div class="form-group">
-                        <label for="phoneNumber">Phone Number:</label>
+                        <label class="modalForm" for="phoneNumber">Phone Number:</label>
                         <input type="number" class="form-control" id="phoneNumber" placeholder="Area Code and Number" required>
                      </div>
-                     <button type="submit" class="btn btn-primary">Submit</button>
-                     <button type="reset" class="btn btn-primary">Reset</button>
+                     <button type="submit" class="btn btn-danger modalForm  modalFormButton">Submit</button>
+                     <button type="reset" class="btn btn-danger modalForm modalFormButton">Reset</button>
                   </form>
                </div>
             </div>
