@@ -13,7 +13,8 @@ body, html {
 * {
     box-sizing: inherit;
 }
-/*--------------------------------HEADER--AND LOGO------------*/
+
+/*----------------------------------------header-and-logo---*/
 
 header{
     margin: 0px;
@@ -21,13 +22,13 @@ header{
 }
    
 
-#main-logo {                                      /*---------- GOT IDA FROM LOVE RUNNING STYLING--------------------------*/
+#main-logo {                                    
         float:left;
         font-family: 'Merriweather', serif;
         font-size: 280%;
         margin-left: 0px;
         margin-bottom: 0;
-        padding-bottom: 0;
+        padding-bottom: 2px;
         padding-left: 50px;
         border-bottom: 0;
         text-transform: uppercase;
@@ -39,10 +40,7 @@ header{
 
 }
 
-
-
-
-/*-----foodClimate--about---whyPartnerWithUs----gallery----------NEW-PAGE-HEADER-------------------*/
+/*----------------------Some-generalStyling-forALL-sections---*/
 
 .newpage-header {
     margin: 0;
@@ -56,8 +54,6 @@ header{
 }
 
 
-/*-----------------supportSection--------------------------COLOR----------------------*/
-
 .sectional-container {
     margin-top: 75px;
     margin-bottom: 10px;
@@ -66,17 +62,6 @@ header{
     padding-right: 0;
     background-color: rgb(213, 223, 228, 0.2);
 }
-
-
-                                                  /*------------FOR-FOOTER----supportSection--------------------------COLOR----------------------*/
-
-
-
-
-
-
-
-                                               /*------------FOR-FOOTER----supportSection--------------------------COLOR----------------------*/
 
 h3, h4, h5 {
     text-transform: uppercase;
@@ -87,8 +72,43 @@ h3, h4, h5 {
     line-height: 20px;
 }
 
-/*---------------------------------------------------------------------------------NAVIGATION-LINK---------------*/
 
+.newpage-header h2  {
+    text-transform: uppercase;
+    margin-top: 25px;
+    padding-bottom: 15px;
+    letter-spacing: 2px;
+    font-family: 'Merriweather Sans', sans-serif;
+    line-height: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.content-text h3 {
+    padding: 15px;
+    text-transform: capitalize;
+    line-height: 25px;
+    font-weight: 700;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #05041a;
+    font-style: normal;
+     text-align: center;
+     letter-spacing: 2px;
+}
+
+
+ #about-container,
+ .vision-container,
+ .WhyPartner-container,
+ .mission-container,                         
+.foodclimate-text-container {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(213, 223, 228, 0.2);
+}
+
+/*--------------------------------------------navigationLink---*/
 
 .bg-dark {
     padding: 0px;
@@ -114,7 +134,6 @@ nav div ul.my-nav {
     text-transform: uppercase;
 }
 
-
 .navitems a {
     width: 100%;
     text-decoration: none;
@@ -124,7 +143,6 @@ nav div ul.my-nav {
 }
 
 
-
 .navitems a i {
     padding-top: 5px;
     display: block;
@@ -132,16 +150,15 @@ nav div ul.my-nav {
     font-size: 30px;
 }
 
-
 .navitems a span {
-    width: 100%;                                 /*---------- LEARNT HOW TO STYLE FROM LECTURE VIDEOS--------------------------*/
+    width: 100%;                               
     padding-top: 5px;
     text-transform: uppercase;
     font-weight: 500;
     letter-spacing: 2px;
     text-align: center;
     padding-bottom: 15px;
-    margin-bottom: 20px;
+  
 }
 
 
@@ -149,6 +166,14 @@ nav div ul.my-nav {
     text-align: center;
 }
 
+/*---------------------------------------hoverEffect--navbar---*/
+
+.hvr-bounce-to-bottom:before {
+    background: rgba(255,36,0, 0.8);
+}
+  
+
+/*---------------------------------------------------modal-form---*/
 
 .buttonIcon {
     width: 200px;
@@ -157,7 +182,7 @@ nav div ul.my-nav {
 }
  
 #modalFormdiv  {
-    text-align: center:
+    text-align: center;
 }
 
 
@@ -166,99 +191,24 @@ nav div ul.my-nav {
     
 }
 
-
-
-
-/*----------------------------------navbar------------------------------------------------HOVER.CSS--....---------------...*/
-
-.hvr-bounce-to-bottom:before {
-    background: rgba(255,36,0, 0.8);
-}
-                    /*---------carousel-----------------------------------------------------------HERO-IMAGE---AND----FOOD-CLIMATE-SECTION---------------*/
-
-
+ /*-----------------------------------------carousel-homePage---*/
 
 #carouslzz {
         overflow: hidden;
         margin-top: 120px;
+        margin-bottom: 10px;
         padding-right: 0px;
          padding-left: 0px;
 
 }
 
 
-                                                                /*-----------carousel--------------------------COLOR----------------------*/
-
-
-.piz {         /*--------- GOT IDEA FROM LOVE RUNNING STYLING THIS SECTION--------------------------*/ 
+.piz {        
    max-height: 600px;
     
 }
 
-
-
-/*------------------CHANGE--------
-
-
-.fieldimage-outer {
-     
-        width: 100%;
-        overflow: hidden;
-        position: relative;
-        margin-top: 45px;
-         margin-left: -180px;
-         z-index: 1;
-}
-
-
-.fieldimage-outer .fieldimage .overlay-tex {
-
-        font-family:"Roboto", sans-serif;
-        text-transform: uppercase;
-        letter-spacing:4px;
-        text-align: center;
-        
-
-        
-        padding-top: 30px;
-        padding-left: 20px;
-        padding-right: 20px;
-        padding-bottom: 30px;
-        
-
-        color: #ffffff; 
-        
-        background-color: rgba(23,42,90, 0.7);        
-     
-}
-
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px)  {
-    
-    #sliderCarol{
-       
-    
-        max-height: 4%;
-         min-width: 30%;
-         margin-top: 0px;
-         margin-right: 100px;
-
-         font-size: 3px;
-        
-          padding-top: 1px;
-        padding-left: 2px;
-        padding-right: 1px;
-        padding-bottom: 1px;
-        
-        text-transform: capitalize;
-        letter-spacing: 1px;
-        text-align: left;
-    }
-
-
-    
-}
-
---------COLOR----------------------*/
+/*---------------------------------------carousel-overlayText---*/
 
 #fieldimage-outer {
         height: 600px;
@@ -281,45 +231,13 @@ nav div ul.my-nav {
 
         width: 400px;
         min-height: 500px;
-        padding-top: 30px;
-        padding-left: 20px;
-        padding-right: 20px;
-        padding-bottom: 30px;
-        
-
+        padding: 30px 20px;        
         color: #ffffff; 
-        
-        background-color: rgba(23,42,90, 0.7);        /*------------------CHANGE----------------COLOR----------------------*/
-
-       
-
+        background-color: rgba(23,42,90, 0.7);  
         
 }
-/*-------------------------------------------FOOD-CLIMATE-ARTICLE------------------------------FOOD-CLIMATE-ARTICLE-----------------------E-----------------*/
 
- #about-container,
- .vision-container,
- .WhyPartner-container,
- .mission-container,                         
-.foodclimate-text-container {
-    margin: 0;
-    padding: 0;
-    background-color: rgb(213, 223, 228, 0.2);
-}
-
-
-
-.foodclimate-text-container h2  {
-    text-transform: uppercase;
-    margin-top: 1.56em;
-    margin-bottom: 1.56em;
-    padding-bottom: 1.56em;
-    letter-spacing: 0.13em;
-    font-family: 'Merriweather Sans', sans-serif;
-    line-height: 1.56em;
-    font-weight: 700;
-}
-
+/*---------------------------------------foodClimate-article---*/
 
  #foodclimate-text p {
     text-align: center;
@@ -335,8 +253,14 @@ nav div ul.my-nav {
     padding-bottom: 1.25em;
 }
 
+@media only screen and (min-device-width : 320px) and (max-device-width : 1024px) and (orientation : portrait) {
+     #intro-food-climate {
+         margin-top: 50px;
+    }
+}
 
-/*--------------------------------------------IFRAME--FOOD-CLIMATE-----------------------------IFRAME--FOOD-CLIMATE-ARTICLE-----------------------E-----------------*/
+/*---------------------------------------------iframe-foodClimate---*/
+
 .iframe-container {
     
     margin-bottom: 50px;
@@ -345,18 +269,18 @@ nav div ul.my-nav {
 
  }
 
-
 .my-new-class {
     width: 100%; 
     height: 100%;;
 }
 
-
 iframe{
     border-width: 0px;
 }
 
-/*----------------------------------------------------------------------------------------SDG-MANDATE------------*/
+
+/*----------------------------------------------SDG-mandate---*/
+
 .sdg-mandate-cover {
     clear: both;
     background-color: #003d52;
@@ -404,35 +328,25 @@ div .sdg-mandate-cover .card a img {
     height: 150px;
 }
 
-/*-------------------------------------------ABOUT-TEXT-AND-IMAGE-----------------------------------------------------*/
-
-.newpage-header h2  {
-    text-transform: uppercase;
-    margin-top: 25px;
-    padding-bottom: 15px;
-    letter-spacing: 2px;
-    font-family: 'Merriweather Sans', sans-serif;
-    line-height: 35px;
-    font-weight: 700;
-    text-align: center;
-}
-
-.aboutsectional-container {
-    margin-top: 75px;
-    margin-bottom: 0px;
-    
-}
+ /*--------------------------------------------aboutArticle----*/
 
 
 #about-container #contenttext-about h3  {
-    text-transform: capitalize;
-    text-align: center;
+
     margin-top: 15px;
     margin-bottom: 25px;
-    letter-spacing: 2px;
-    font-family: 'Merriweather Sans', sans-serif; 
+}
+
+.content-text h3 {
+    padding: 15px;
+    text-transform: capitalize;
     line-height: 25px;
     font-weight: 700;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #05041a;
+    font-style: normal;
+     text-align: center;
+     letter-spacing: 2px;
 }
 
 
@@ -451,9 +365,10 @@ div .sdg-mandate-cover .card a img {
 }
 
 
-/*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
+/*------------------------------------------visionSection-image---*/
 
-div #visionimage {                                               /*---------- GOT IDEA FROM RESUME CV VIDEO-------------------------*/
+
+div #visionimage {                                             
     background: url("../images/visionimage.jpg");
     background-position: center;                      
     background-repeat: no-repeat;
@@ -477,92 +392,7 @@ div #visionimage {
             background-size: 100% 70%;
     }
 
-
-
-/*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-/*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-/*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-/*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-/*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-/*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-/*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-                                                      /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-
- .vision-container .content-text h3,
-  .content-text #missioncontent-text {
-    text-transform: capitalize;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    letter-spacing: 2px;
-    font-family: 'Merriweather Sans', sans-serif;
-    line-height: 25px;
-    font-weight: 700;
-    text-align: center;
-}
-                                                /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-
-.content-text h3 {
-    padding: 15px;
-    text-transform: capitalize;
-    line-height: 25px;
-    font-weight: 700;
-    font-family: 'Merriweather Sans', sans-serif;
-    color: #05041a;
-    font-style: normal;
-}
-                                               
-.my-list p.heading {
-    font-weight: bold;
-    font-size: 20px;
-    line-height: 25px;
-    font-family: 'Merriweather Sans', sans-serif;
-    color: #05041a;
-}
-
-.my-list p.heading span.content {
-    display: inline;
-    font-weight: normal;
-    line-height: 25px;
-    font-size: 1.3rem;
-    font-family: 'Roboto Condensed', sans-serif;
-    color: #05041a;
-
-}
-
-                             
-
-
-
-
-
-
-.content-text ul li{
-    list-style-type: none;
-}
-/*-------------------------------------------PARTNERSHIP-IMAGE-----------------------------------------------------------PARTNERSHIP-IMAGE-------*/
-
-
-
-
-#whypartnerwithus {
-    padding-bottom: 0px;
-    margin-bottom: 0px;
-}
-
-
-.content-text #howTitle,
-.WhyPartner-container .content-text h3  {
-    text-transform: capitalize;
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    letter-spacing: 2px;
-    font-family: 'Merriweather Sans', sans-serif; 
-    line-height: 30px;
-    font-weight: 700;
-}
-
-
+/*------------------------------------vision-mission-and-how-articles---*/
 
 .content-text p.howCon,
 .content-text .vision,
@@ -580,6 +410,19 @@ div #visionimage {
     font-family: 'Roboto Condensed', sans-serif;
     
 }
+
+/*------------------------------------------------whyPartnership-section---*/
+
+.content-text #howTitle,
+.WhyPartner-container .content-text h3  {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    font-family: 'Merriweather Sans', sans-serif; 
+    line-height: 30px;
+
+}
+
 
 .WhyPartner-container .content-text p {
     text-align: center;
@@ -600,16 +443,9 @@ div .col.content-text {
      background-color: #d5dfe433;
 }
 
+/*-------------------------------------------------image-whyPartnership---*/
 
-
-                                                /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-                                                /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-                                                /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-                                                /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-
-
-                                                /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
-.partnershipimages {                                              /*---------- GOT IDEA FROM LOVE RUNNING STYLING--------------------------*/
+.partnershipimages {                                        
      background: url("../images/partnershipimage.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -624,32 +460,42 @@ div .col.content-text {
 
 .partnershipimages {
      padding-left: 25%;
-     padding-left: 25%;
+     padding-right: 25%;
      box-sizing: border-box;
     
  }
 
-
-    .mediaPartneriImage {
+ .mediaPartneriImage {
             background-size: 100% 70%;
-    }
+}
 
-                                             /*---------------------------------------------------------------------------------------------------VISION-IMAGE-------*/
+/*-------------------------------------------------gallery-carousel---*/
 
-
-
-/*-------------------------------------------GALLERY-IMAGE-------------------------------------------------------GALLERY-IMAGE-------------------*/
 
 .newpage-header #gallery {
     margin-top: 0px;
-    margin-bottom: 40px;
-    padding-top: 0px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-top: 10px;
+     padding-bottom: 10px;
+     letter-spacing: 2px;
 }
 
- 
 
-/*-------------------------------------------SUPPORT-SECTION-----------------------------------------------------SUPPORT-SECTION----------------------*/
-#imagesupport {                                                  /*---------- GOT IDEA FROM LOVE RUNNING STYLING--------------------------*/
+/*--------------------------------------------------image-supportSection---*/
+
+
+#imagesupport-outer {                      
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+        margin-top: 75px;
+        margin-bottom: 20px;
+}
+
+
+#imagesupport {                                                  
     background: url("../images/imagesupport.jpg");
     background-position: center;
     background-repeat: no-repeat;                                       
@@ -660,14 +506,7 @@ div .col.content-text {
     -webkit-transition: all .5s ease-in-out;
 }
 
-#imagesupport-outer {
-        height: 600px;
-        width: 100%;
-        overflow: hidden;
-        position: relative;
-        margin-top: 75px;
-        margin-bottom: 20px;
-}
+/*--------------------------------------imageSupport-overlayText---*/
 
 #imagesupport-outer #imagesupport .covertext h2 {
         font-size:200%;
@@ -697,7 +536,7 @@ div .col.content-text {
         
 }
 
-
+/*-------------------------------------------------supportArticle---*/
 
 .sectional-container--orangecolor{
     background-color: rgba(255,36,0, 0.9);
@@ -708,8 +547,6 @@ div .col.content-text {
     padding-left: 0;
     padding-right: 0;
 }
-
-
 
 
 .support-parag P {
@@ -730,8 +567,7 @@ div .col.content-text {
     line-height: 30px;
   }
 
-
-/*-------------------------------------------FOOTER-SECTION----------------------------------------------------FOOTER-SECTION----------------------*/
+/*--------------------------------------------------footer-section---*/
 
 footer {
     background-color:#5a172a;
@@ -748,6 +584,7 @@ footer .our-strenght {
     padding-left: 5px;
 }
 
+/*--------------------footer-socialMedia---*/
 
 .social-media {
     padding-bottom: 15px;
@@ -757,8 +594,7 @@ footer .our-strenght {
 div ul.social-media li a {
     text-align: center;
 }
-
-                                            /*---------- GOT IDEA FROM RESUME CV STYLING--------------------------*/
+                                
 div ul.social-media li a i {
     width: 2.0em;
     height: 2.0em;
@@ -784,6 +620,9 @@ div ul.social-media li a i {
 #footer-contents {
     padding: 20px;
 }
+
+
+      /*--------------------footer-contacts---*/
 
 footer .contacts {
     font-size: 18px;
