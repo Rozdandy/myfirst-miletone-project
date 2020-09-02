@@ -1,5 +1,6 @@
 # **Essence Greenery** 
 
+<img src="assets/testing/responsiveness.jpg">
 
 ### **Website link:** 
 
