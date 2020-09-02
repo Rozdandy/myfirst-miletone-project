@@ -55,7 +55,7 @@ header{
 
 
 .sectional-container {
-    margin-top: 75px;
+    margin-top: 50px;
     margin-bottom: 10px;
     
     padding-left: 0;
@@ -204,20 +204,21 @@ nav div ul.my-nav {
 
 
 .piz {        
-   max-height: 600px;
+   max-height: 590px;
     
 }
 
 /*---------------------------------------carousel-overlayText---*/
 
 #fieldimage-outer {
-        height: 600px;
+        max-height: 600px;
         width: 100%;
         overflow: hidden;
         position: relative;
         margin-top: 45px;
          margin-left: -180px;
          z-index: 1;
+         
 }
 
 
@@ -225,15 +226,18 @@ nav div ul.my-nav {
         font-size:130%;
         font-family:"Roboto", sans-serif;
         text-transform:uppercase;
-        letter-spacing:4px;
+        letter-spacing:3px;
         text-align: center;
         
+        
 
-        width: 400px;
-        min-height: 500px;
+        max-width: 400px;
+        
+        
         padding: 30px 20px;        
         color: #ffffff; 
         background-color: rgba(23,42,90, 0.7);  
+        
         
 }
 
@@ -253,7 +257,7 @@ nav div ul.my-nav {
     padding-bottom: 1.25em;
 }
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 1024px) and (orientation : portrait) {
+@media only screen and (min-width : 320px) and (max-width : 1024px) and (orientation : portrait) {
      #intro-food-climate {
          margin-top: 50px;
     }
@@ -466,7 +470,8 @@ div .col.content-text {
  }
 
  .mediaPartneriImage {
-            background-size: 100% 70%;
+            background-size: cover;
+            
 }
 
 /*-------------------------------------------------gallery-carousel---*/
