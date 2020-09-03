@@ -472,7 +472,7 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 1.	On GitHub, go to my Github page.
 2.	Go to the repositories by clicking on the dropdown light-green button located at the far-right top.
 3.  Then choose “YOUR REPOSITORIES” from the dropdown’s.
-4.	At the repositories page, click on the title of the project “myfirst-miletone-project”, the project to a new page.
+4.	At the repositories page, click on the title of the project “myfirst-miletone-project”, the project will open in a new page.
 5.  On the page and just above it is a Green button called "code", click on it to reveal the dropdown.
 6.  Select and click "Download Zip" from the dropdown’s. The file will be downloaded on your local computer.
 7.  Select the downloaded file on your local computer system, click on the file to extract.
