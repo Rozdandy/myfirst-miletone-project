@@ -1,4 +1,4 @@
-# **Essence Greenery** 
+# **EG** 
 
 <img src="assets/testing/responsiveness.jpg">
 
@@ -229,7 +229,8 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 
 * As a visiting user, I would want to see video of or world view on climate change and the food system.
 
-                1. When the customer arives on the webpage, he/she can see the navigation bar with several links.
+                1. When the customer arives on the webpage, he/she can see the navigation bar with several 
+                   links.
                 2. Within the navigation link, they click on the Home link and it will scroll to the page.
                 3. The video is just by the right corner of the FOO-CLIMATE TEXT. They can click and watch. 
 
@@ -256,7 +257,7 @@ I used the following webistes to validate both my HTML and CSS files respectivel
                 2. Within the navigation link, they click on the Home link and it will scroll to the page.
                 3. Within the Home page is Our Sustainable Mandate section.
                 4. There he/ she can click the images to link them to required information.
-                5. Our mandate is based on 1st, 2nd, 3rd, 8th, 13th, and 17th of the Sustainable Development 
+                5. Our mandate is base on 1st, 2nd, 3rd, 8th, 13th, and 17th of the Sustainable Development 
                    Goals.
 
 * As a visiting user, I would want to know more about EG.
@@ -278,8 +279,9 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 
 * As a visiting user, I would want to know how I could partner with EG.
 
-                1. When the user arrives on the webpage, the user, he/ she can see the navigation bar with several links
-                2. On the navigation they can click the WHY PARTNER WITH US link or icon
+                1. When the user arrives on the webpage, the user, he/ she can see the navigation 
+                   bar with several links
+                2. On the navigation bar they can click on the WHY PARTNER WITH US link or icon
                 3. The section will scroll down swiftly.
                 4. The user can click on the CONTACT US form at the Navigation bar to register with us.
                 5. They fill their information on the placeholders.
@@ -288,14 +290,16 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 
 * As a potential investor, I would want to know where this organisation is located.
 
-                1. When the user arrives on the webpage, the user he/ she can scroll down to the footer section.
+                1. When the user arrives on the webpage, the user he/ she can scroll down to the 
+                    footer section.
                 2. A user just scrolls down to the footer. It is right there.
                 3. The full address of the organisation is located at the footer.
 
 
 * As a potential customer, I would want to see some of photos as proof of what they have started and what they are doing.
 
-                1. When the user arrives on the webpage, the user he/ she can scroll down to the footer section.
+                1. When the user arrives on the webpage, the user he/ she can scroll down to the footer 
+                   section.
                 2. On the navigation they can click the GALLERY link or icon
                 3. The section will scroll down swiftly, right there are various image from EG.
 
@@ -309,17 +313,21 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 
 * As a visiting user, I would want to know how contact the management.
 
-                1. When the customer arrives on the webpage, he/she can see the navigation bar with several links.
+                1. When the customer arrives on the webpage, he/she can see the navigation bar with several
+                   links.
                 2. The user can either choose to contact us using the CONTACT US form at the navigation bar.
                 3. The customer can fill the form and submit it.
-                4. Also, a user can just scroll down to the footer. Right there is our Phone, Email and Locations.
+                4. Also, a user can just scroll down to the footer. Right there is our Phone, Email and 
+                   Locations.
  
 
 * The management would want to be able to contact potential investors.
                
-                1. When a customer arrives on the webpage, he/she can see the navigation bar with several links.
+                1. When a customer arrives on the webpage, he/she can see the navigation bar with several
+                   links.
                 2. The user can fill their data on the CONTACT US form at the navigation bar and submit.
-                3. The management can reach potential clients through their information submitted with the contact us form.
+                3. The management can reach potential clients through their information submitted with the 
+                   contact us form.
     
 
 * As the management, I want to provide my social media links so that users can follow my updates 
@@ -329,10 +337,12 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 
 * As the management, I want to be contatcted by potential donors.
 
-                1. When the customer arrives on the webpage, he/she can see the navigation bar with several links.
+                1. When the customer arrives on the webpage, he/she can see the navigation bar with several 
+                   links.
                 2. The user can either choose to contact us using the CONTACT US form at the navigation bar.
                 3. The customer can fill the form and submit it.
-                4. Also, a user can just scroll down to the footer. Right there is our Phone, Email and Locations.
+                4. Also, a user can just scroll down to the footer. Right there is our Phone, Email and 
+                   Locations.
 
 
 ### **Manual Testing**
@@ -342,8 +352,8 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 1. Navigation bar 
 
               1. At the Home Page on desktop. 
-              2. Inspect links, and icons in the navigation menu to ensure they are well placed and they are 
-                 appearing correctly and centrally aligned on the navigation bar.
+              2. Inspect links, and icons in the navigation menu to ensure they are well placed and they  
+                 are appearing correctly and centrally aligned on the navigation bar.
               3. Notice that the navbar is fixed so no matter where you are on the site you know where you are,
                  one can click to access any any section.
               4. Move your cursor over the logo "EG" to display the full name of the organiaztion, that is, 
@@ -472,15 +482,15 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 **How to clone / run this project locally, for other users**
 
 
-    1.	On GitHub, go to my Github page.
-    2.	Go to the repositories by clicking on the dropdown light-green button located at the far-right top.
-    3.	Then choose “YOUR REPOSITORIES” from the dropdown’s.
-    4.	At the repositories page, click on the title of the project “myfirst-miletone-project”
-    5.	Under the repository name, click Clone or download.
-    6.	In the Clone with HTTPs section, click to copy the clone URL for the repository.
-    7.	Open Githpod workspace, that is Git Bash.
-    8.	Using the command line, type git clone, and then paste the URL you copied in Step 6.
-    9.	Press Enter. Your local clone will be created.
+1.	On GitHub, go to my Github page.
+2.	Go to the repositories by clicking on the dropdown light-green button located at the far-right top.
+3.	Then choose “YOUR REPOSITORIES” from the dropdown’s.
+4.	At the repositories page, click on the title of the project “myfirst-miletone-project”
+5.	Under the repository name, click Clone or download.
+6.	In the Clone with HTTPs section, click to copy the clone URL for the repository.
+7.	Open Githpod workspace, that is Git Bash.
+8.	Using the command line, type git clone, and then paste the URL you copied in Step 6.
+9.	Press Enter. Your local clone will be created.
 
 
 
