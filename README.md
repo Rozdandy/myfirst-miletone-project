@@ -6,7 +6,7 @@
 
 *my github link*: [Rozdandy](https://github.com/Rozdandy?tab=repositories)
 
-[Essence Greenery](https://rozdandy.github.io/myfirst-miletone-project/)
+[EG](https://rozdandy.github.io/myfirst-miletone-project/)
 Essence Greenery advocate for food production, and agricultural practices in a sustainable way using climate change as a focal point and taking its concept and mandate from the sustainable development goals. The project is mainly the developer's idea which is based on farm project in Nigeria. One of the primary objectives of building the website is to attract foreigners to partner or invest with us to tackle food insecurity and malnutrition in the future while transitioning to lower-carbon emission economies. The site is for an educational purpose though a B2B2C. In the future, the sites hope to have a platform that will enable any person to do online shopping of all major food groceries and will be delivered within 30 minutes across his/her neighborhoods” a neighborhood online food platform”.
 
 # **UX**
