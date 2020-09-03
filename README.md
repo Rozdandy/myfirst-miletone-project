@@ -454,17 +454,15 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 **Bugs**
 
 
-1. One of the carousel images seems bigger, especially the middle image when the site is opened in 
-   tablet and small devices. I tried using other images with similar size with the rest but it will not just fit.
-   [carousel bug image](assets/testing/carouselimage2bug.jpg)
-2. Although the website is responsive in all devices but in IPAD PRO, the home page overlay text does not 
+
+1. Although the website is responsive in all devices but in IPAD PRO, the home page overlay text does not 
    fit in the div column properly, although I did all I could do to get it fit properly but I was not able 
    within the time frame. [Ipad pro image](assets/testing/ipadprobug.jpg)
-3. The console at chrome dev tools flags some red issues. About five of those issues came directly from 
+2. The console at chrome dev tools flags some red issues. About five of those issues came directly from 
    chrome extension and could not fixed them. Also, some of the issues came from the website metadata, and I 
-   really cou;d not fix them. [Console](assets/testing/consollebug.jpg)
-4. When reduced to mobile view the responsiveness a times doesn't work until when refreshed. I do not know the 
-   cause.
+   really could not fix them. [Console](assets/testing/consollebug.jpg)
+3. When reduced to mobile view the responsiveness especially for the small device sometimes doesn't work until
+   when refreshed or after checking the responsiveness of the tablet design. I do not know the cause.
  
 
 # **Deployment**
