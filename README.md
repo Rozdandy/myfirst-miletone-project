@@ -193,12 +193,14 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 * [HTML-Validator](https://validator.w3.org/#validate_by_input "HTML-Validator")
 * [CSS-validator](https://jigsaw.w3.org/css-validator/#validate_by_input "CSS-validator")
 
-    * The HTML validated my codes and it went through successfully.
-    * Similarly. the CSS validator checked the Cascading Style Sheets (CSS). And it was without errors on my CSS
+    * The HTML validated the codes without any errors.
+        [HTML test](assets/testing/htmlvalTest.jpg) 
+    * Similarly, the CSS validator checked the Cascading Style Sheets (CSS), and nd it is without errors.
+        [CSS test](assets/testing/cssvalTest.jpg)
     * Also, I used the 'Audit' option in Google Dev Tools to ensure the site is working perfectly.
     * Furthermore, the website was tested on Google Chrome, Mozilla, Firefox, and Internet Explorer.
-    * Though it worked well in all the sites except Internet Explorer and this because the site is not compatible 
-      with the grid in BootStrap.
+      and it works perfectly in them.
+    
 
 # **Testing user stories from UX section**
 
@@ -440,10 +442,19 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 
 **Bugs**
 
- Observed some issues at the console when using chrome google Dev tools. I found about 7 of them, those 
- red flags came from chrome browser and not necessary from my website.
- Also, some other known bugs were white spaces created at the top navigation bar when the device was set 
- to mobile design. I was able to fix it.
+
+1. One of the carousel images seems bigger, especially the middle image when the site is opened in 
+   tablet and small devices. I tried using other images with similar size with the rest but it will not just fit.
+   [carousel bug image](assets/testing/carouselimage2bug.jpg)
+2. Although the website is responsive in all devices but in IPAD PRO, the home page overlay text does not 
+   fit in the div column properly, although I did all I could do to get it fit properly but I was not able 
+   within the time frame. [Ipad pro image](assets/testing/ipadprobug.jpg)
+3. The console at chrome dev tools flags some red issues. About five of those issues came directly from 
+   chrome extension and could not fixed them. Also, some of the issues came from the website metadata, and I 
+   really cou;d not fix them. [Console](assets/testing/consollebug.jpg)
+4. When reduced to mobile view the responsiveness a times doesn't work until when refreshed. I do not know what 
+   causes this to happen.
+ 
 
 # **Deployment**
 
