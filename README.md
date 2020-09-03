@@ -94,10 +94,10 @@ The company logo **EG**: When a user hover the mouse over it, it displays the fu
 This the first and main page of the site when a user click the URL. The page educates on the existence of climate change and the action of the international community such as COP 21 in acknowledgement of climate change. 
 **Specifically it has the following features**:
 
-  *  **A carousel or slider**: This slider displays three images of the food system, the before after effect of climate change, and the melting polar region image.
-    *   An overlay text on the carousel
-    *   A text section that inform about climate change impact
-    *   A video on climate change with respect to the food system
+    *   A carousel or slider.
+    *   An overlay text on the carousel.
+    *   A text section that inform about climate change impact.
+    *   A video on climate change with respect to the food system.
     *   Sustainable mandate section that has 6 images which also act as links on sustainable goals and development.
 
 ## 4. About 
@@ -127,7 +127,7 @@ This feature shows some of the previous works at the farm and part of our harves
 
 **It has the following features**:
 
-   * **A carousel or slider**: This slider displays 5 images 
+      * A carousel or slider: This slider displays 5 images 
       * Image 1: It is image of freshly harvested corn.
       * Image 2: It is image of freshly harvested yam.
       * Image 3: It is image of harvested dry corn.
@@ -205,6 +205,7 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 # **Testing user stories from UX section**
 
 * As a visiting user, I want to know how climate change may impact the food system.
+
                 1. From the HOME PAGE.
                 2. User scrolls down just below the carousel slider.
                 3. There is the article on FOOD-CLIMATE. 
@@ -452,20 +453,20 @@ I used the following webistes to validate both my HTML and CSS files respectivel
 3. The console at chrome dev tools flags some red issues. About five of those issues came directly from 
    chrome extension and could not fixed them. Also, some of the issues came from the website metadata, and I 
    really cou;d not fix them. [Console](assets/testing/consollebug.jpg)
-4. When reduced to mobile view the responsiveness a times doesn't work until when refreshed. I do not know what 
-   causes this to happen.
+4. When reduced to mobile view the responsiveness a times doesn't work until when refreshed. I do not know the 
+   cause.
  
 
 # **Deployment**
 
-    1.	On GitHub, go to my Github page.
-    2.	Go to the repositories by clicking on the dropdown light-green button located at the far-right top.
-    3.  Then choose “YOUR REPOSITORIES” from the dropdown’s.
-    4.	At the repositories page, click on the title of the project “myfirst-miletone-project”, the project to a new page.
-    5.  On the page and just above it is a Green button called "code", click on it to reveal the dropdown.
-    6.  Select and click "Download Zip" from the dropdown’s. The file will be downloaded on your local computer.
-    7.  Select the downloaded file on your local computer system, click on the file to extract.
-    8.  Click on the "index.html" link of the extracted file and site would be deployed.
+1.	On GitHub, go to my Github page.
+2.	Go to the repositories by clicking on the dropdown light-green button located at the far-right top.
+3.  Then choose “YOUR REPOSITORIES” from the dropdown’s.
+4.	At the repositories page, click on the title of the project “myfirst-miletone-project”, the project to a new page.
+5.  On the page and just above it is a Green button called "code", click on it to reveal the dropdown.
+6.  Select and click "Download Zip" from the dropdown’s. The file will be downloaded on your local computer.
+7.  Select the downloaded file on your local computer system, click on the file to extract.
+8.  Click on the "index.html" link of the extracted file and site would be deployed.
 
 
 **How to clone / run this project locally, for other users**
